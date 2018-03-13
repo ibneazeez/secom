@@ -1,0 +1,55 @@
+<p class="text-info">
+    Welcome to the Angular Store.<br />
+    Please select the products you want and add them to your shopping cart.<br />
+    When you are done, click the shopping cart icon to review your order and check out.
+</p>
+<script src="js/jquery-1.7.1.min.js"></script>
+	
+<p>
+    Search: <input ng-model="search">
+</p>
+<table class="table table-bordered">
+    <tr class="well">
+        <td class="tdRight" colspan="4" >
+            
+             <a  href="default.htm#/cart" ng-disabled="cart.getTotalCount() < 1" class="btn btn-block btn-success" >
+                <i class="icon-shopping-cart icon-white" /> Go to cart <span ng-show="cart.getTotalCount(product.sku) > 0"><br />{{cart.getTotalCount()}}</b> items, <b>{{cart.getTotalPrice() | currency}}</span>
+             </a>
+             My Name is : {{login.name}}
+        </td>
+    </tr>
+    <tr id="prod" ng-repeat="product in store.products | orderBy:'name' | filter:search" >
+        <td class="tdCenter"  height="20%" width="20%"><a href="#/products/{{product.sku}}"><img ng-src="{{product.image}}" alt="{{product.name}}"  height="75%" width="75%"/></a>  <b>{{product.price | currency}}</b>	</td>
+        <td class="tdright" >
+            <b>{{product.name}} </b><br/>
+           {{product.description}}<br/>
+           <div class="span4">
+           
+            <a 
+                class="btn btn-block btn-success" 
+                ng-click="cart.addItem(product.sku, product.name, product.price, 1)">
+                <i class="icon-shopping-cart icon-white" /> add to cart <span ng-show="cart.getTotalCount(product.sku) > 0"><br />Item Already in Cart ({{cart.getTotalCount(product.sku)}})</span>
+             </a>
+            <a 
+                class="btn btn-block btn-danger" 
+                ng-click="cart.addItem(product.sku, product.name, product.price, -1)"
+                ng-disabled="cart.getTotalCount(product.sku) < 1">
+                <i class="icon-trash icon-white" /> remove from cart
+            </a>
+ 
+ 
+ 
+            </div>
+        </td>
+       
+        
+    </tr>
+    <tr class="well">
+        <td class="tdRight" colspan="4">
+            <a href="default.htm#/cart" title="go to shopping cart" ng-disabled="cart.getTotalCount() < 1">
+                <i class="icon-shopping-cart" />
+                <b>{{cart.getTotalCount()}}</b> items, <b>{{cart.getTotalPrice() | currency}}</b>
+            </a>
+        </td>
+    </tr>
+</table>

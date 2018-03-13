@@ -1,0 +1,1905 @@
+<?xml version="1.0"?>
+<magento_api>
+  <data_item>
+    <entity_id>10</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopwh</sku>
+    <description>Wheat (1 kg),can be refer as godumalu,goduma,goodumallu,geyun,gehun</description>
+    <short_description>Wheat (1 kg)</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Wheat (1 kg)(Godhumalu)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>32</regular_price_with_tax>
+    <regular_price_without_tax>32</regular_price_without_tax>
+    <final_price_with_tax>32</final_price_with_tax>
+    <final_price_without_tax>32</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/w/h/wheat_1_kg_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>17</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoprf</sku>
+    <description>Raagi Flour(1 Kg) can be referred as finger millet ,fingermillet ,ragipindi ,ragi pindi,raagi pindi.</description>
+    <short_description>Raagi Flour(1 Kg)</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Raagi Flour(1 Kg)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>40</regular_price_with_tax>
+    <regular_price_without_tax>40</regular_price_without_tax>
+    <final_price_with_tax>40</final_price_with_tax>
+    <final_price_without_tax>40</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/r/a/raagi_flour_1_kg_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>21</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopir</sku>
+    <description>Idli Rava(1 Kg),can be refer as idly rava,idly raava.</description>
+    <short_description>Idli Rava(1 Kg)</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Idli Rava(1 Kg)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>35</regular_price_with_tax>
+    <regular_price_without_tax>35</regular_price_without_tax>
+    <final_price_with_tax>30</final_price_with_tax>
+    <final_price_without_tax>30</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/i/d/idli_rava_1_kg_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>24</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoplv</sku>
+    <description>Lavangam(50 gms), can be refer as Long, loong,lavanga,lavangalu</description>
+    <short_description>Lavangam(50 gms)</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Lavangam(50 gms)(Long)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>70</regular_price_with_tax>
+    <regular_price_without_tax>70</regular_price_without_tax>
+    <final_price_with_tax>70</final_price_with_tax>
+    <final_price_without_tax>70</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/l/a/lavangam_50_gms_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>25</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoppt</sku>
+    <description>Patta(50 gms)</description>
+    <short_description>Patta(50 gms)</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Patta(50 gms)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>18</regular_price_with_tax>
+    <regular_price_without_tax>18</regular_price_without_tax>
+    <final_price_with_tax>18</final_price_with_tax>
+    <final_price_without_tax>18</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/a/patta_50_gms_..jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>28</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopel</sku>
+    <description>Elachi(50 gms) can be referred as ilachi,yalakulu,cardamom,elakulu.</description>
+    <short_description>Elachi(50 gms)</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Elachi(50 gms)(Yalakulu)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>50</regular_price_with_tax>
+    <regular_price_without_tax>50</regular_price_without_tax>
+    <final_price_with_tax>50</final_price_with_tax>
+    <final_price_without_tax>50</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/e/l/elachi_50_gms_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>36</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopts</sku>
+    <description>Tata Salt(1 Kg) can be referred as tatauppu,tata namak.</description>
+    <short_description>Tata Salt(1 Kg)</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Tata Salt(1 Kg)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>18</regular_price_with_tax>
+    <regular_price_without_tax>18</regular_price_without_tax>
+    <final_price_with_tax>18</final_price_with_tax>
+    <final_price_without_tax>18</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/o/download_3__1.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>48</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoppo</sku>
+    <description>Parachute Coconut Oil(500 ml) can be referred as kobbari nune,coconut oil,thel,tel.</description>
+    <short_description>Parachute Coconut Oil(500 ml),parachute,coconut oil</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Parachute Coconut Oil(500 ml)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>173</regular_price_with_tax>
+    <regular_price_without_tax>173</regular_price_without_tax>
+    <final_price_with_tax>173</final_price_with_tax>
+    <final_price_without_tax>173</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/a/parachute-bottle_1_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>49</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoppm</sku>
+    <description>Pampers now comes with Magic Gel which absorbs quicker and hence keep the skin dry for upto 10 hours. So your baby's skin will be dry throughout the night, and give him a peaceful, undisturbed golden sleep.</description>
+    <short_description>Pampers Large Diapers 60 Nos,pampers,pampers 60pcs</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Pampers Large Diapers 60 Nos</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>820</regular_price_with_tax>
+    <regular_price_without_tax>820</regular_price_without_tax>
+    <final_price_with_tax>799</final_price_with_tax>
+    <final_price_without_tax>799</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/a/pampers_disposable_diapers_-_large_9_-_14_kgs_60_nos_pouch-500x500.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>50</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopp2</sku>
+    <description>Pampers now comes with Magic Gel which absorbs quicker and hence keep the skin dry for upto 10 hours. So your baby's skin will be dry throughout the night, and give him a peaceful, undisturbed golden sleep.</description>
+    <short_description>Pampers Medium Diapers 66 Nos,pampers,pampers 66 Nos</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Pampers Medium Diapers 66 Nos</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>800</regular_price_with_tax>
+    <regular_price_without_tax>800</regular_price_without_tax>
+    <final_price_with_tax>780</final_price_with_tax>
+    <final_price_without_tax>780</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/a/pampers_medium_diapers_66_nos-500x554.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>51</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopp3</sku>
+    <description>For your active little girl, Pampers has come up with an &#x2018;Easy Ups XL Diaper&#x2019; that holds 25% more than the other leading training pant. This pant is specially designed for little girls who love playing outdoor games. What more? Pampers Easy Ups Large Diapers is equipped with leak protection and features their favorite game &#x2018;Dora The Explorer&#x2019; print design.</description>
+    <short_description>Pampers Easy Ups XL Diaper 16 Nos,pampers,pampers easy ups xl,diapers</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Pampers Easy Ups XL Diaper 16 Nos</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>360</regular_price_with_tax>
+    <regular_price_without_tax>360</regular_price_without_tax>
+    <final_price_with_tax>350</final_price_with_tax>
+    <final_price_without_tax>350</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/a/pampers_easy_ups_xl_diaper_16_nos.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>52</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopbs</sku>
+    <description>Boost Health Drink 450 gm Jar</description>
+    <short_description>Boost Health Drink 450 gm Jar</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Boost Health Drink 450 gm Jar</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>220</regular_price_with_tax>
+    <regular_price_without_tax>220</regular_price_without_tax>
+    <final_price_with_tax>212</final_price_with_tax>
+    <final_price_without_tax>212</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/b/o/boost_health_drink_450_gm_jar.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>53</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopbs1</sku>
+    <description>Boost Health Drink Pouch 500 gm</description>
+    <short_description>Boost Health Drink Pouch 450 gm,boost,boost pouch,boost 450 gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Boost Health Drink Pouch 500 gm</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>210</regular_price_with_tax>
+    <regular_price_without_tax>210</regular_price_without_tax>
+    <final_price_with_tax>205</final_price_with_tax>
+    <final_price_without_tax>205</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/b/o/boost_health_drink_pouch_450_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>55</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopgk</sku>
+    <description>Good Night Silver Refill ensures that you and your family get a peaceful night&#x2019;s sleep after a long tiring day at work. Within 10 to 20 sec, the mosquitoes are killed with the help of the strong, harmless smoke that comes out of the liquidizer. The safe liquidizer is long lasting and will protect your family from deadly diseases like dengue and malaria. Get your pack soon.</description>
+    <short_description>Good Knight Silver 60 Nights Refill,Good Knight 60 Nights Refill,Good Knight Refill</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Good Knight Silver 60 Nights Refill</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>72</regular_price_with_tax>
+    <regular_price_without_tax>72</regular_price_without_tax>
+    <final_price_with_tax>72</final_price_with_tax>
+    <final_price_without_tax>72</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/g/o/good_knight_silver_60_nights_refill.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>56</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopar</sku>
+    <description>Ariel has a multiple cleaning system &amp; built in additives for a Complete wash. Ariel has pink noodles, green speckles, and blue speckles which have the power of bar, brush and blue, which helps remove the toughest of stains with 100% stain removing power.Available in following sizes: 500g, 1 Kg &amp; 2 Kg</description>
+    <short_description>Ariel Complete Detergent Powder 1 Kg</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Ariel Complete Detergent Powder 1 Kg</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>188</regular_price_with_tax>
+    <regular_price_without_tax>188</regular_price_without_tax>
+    <final_price_with_tax>188</final_price_with_tax>
+    <final_price_without_tax>188</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/a/r/ariel_complete_detergent_powder_1_kg.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>57</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoprb</sku>
+    <description>Ensure that you and your family look the best at every occasion with super clean clothes and a pleasant fragrance. Avoid the mess with its special NSD technology that keeps the bar dry after use. The shape is such that you can use it easily with a firm grip. Pick this bar and add a bright shine to your clothes.</description>
+    <short_description>Rin Detergent Bar 250 gm</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Rin Detergent Bar 250 gm</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>14</regular_price_with_tax>
+    <regular_price_without_tax>14</regular_price_without_tax>
+    <final_price_with_tax>14</final_price_with_tax>
+    <final_price_without_tax>14</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/r/i/rin_detergent_bar_250_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>61</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopmp</sku>
+    <description>Mamy Poko Pants Large(8 pcs)</description>
+    <short_description>Mamy Poko Pants Large(8 pcs),can be refer as mamy pants</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Mamy Poko Pants Large(8 pcs)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>110</regular_price_with_tax>
+    <regular_price_without_tax>110</regular_price_without_tax>
+    <final_price_with_tax>110</final_price_with_tax>
+    <final_price_without_tax>110</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mamy_poko_pants_large_8_pcs_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>65</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdp</sku>
+    <description>All night absorbency&#xD;
+Extra dry layer for all night dryness/absorbency&#xD;
+Baby lotion with aloe vera to protect skin and helps to provide smoother skin&#xD;
+Soft stretch waist and sides for superior fit comfort&#xD;
+Soft like cottony cloth&#xD;
+Ideal for babies with weight of 7-12kgs&#xD;
+The product has undergone an upgrade, so you may find it different to the product that you used earlier</description>
+    <short_description>All night absorbency&#xD;
+Extra dry layer for all night dryness/absorbency</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Pampers Medium Size Diaper Pants (60 Count)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>690</regular_price_with_tax>
+    <regular_price_without_tax>690</regular_price_without_tax>
+    <final_price_with_tax>650</final_price_with_tax>
+    <final_price_without_tax>650</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/a/pampers_medium_size_diaper_pants_60_count_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>66</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoppco-200 ml</sku>
+    <description>Parachute Coconut Oil(&#xC15;&#xC4A;&#xC2C;&#xC4D;&#xC2C;&#xC30;&#xC3F; &#xC28;&#xC42;&#xC28;&#xC46;) can be referred as kobbari nune,coconut oil,thel,tel.</description>
+    <short_description>Parachute Coconut Oil(&#xC15;&#xC4A;&#xC2C;&#xC4D;&#xC2C;&#xC30;&#xC3F; &#xC28;&#xC42;&#xC28;&#xC46;)-200 ml, Also refered as nuni,Parachute,Coconut Oil,&#xC15;&#xC4A;&#xC2C;&#xC4D;&#xC2C;&#xC30;&#xC3F; &#xC28;&#xC42;&#xC28;&#xC46;,tal.teal.</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Parachute Coconut Oil(&#xC15;&#xC4A;&#xC2C;&#xC4D;&#xC2C;&#xC30;&#xC3F; &#xC28;&#xC42;&#xC28;&#xC46;)-200 ml</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>74</regular_price_with_tax>
+    <regular_price_without_tax>74</regular_price_without_tax>
+    <final_price_with_tax>74</final_price_with_tax>
+    <final_price_without_tax>74</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/a/parachute_200ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>67</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopes</sku>
+    <description>Exo Safai Steel Scrubber is a superior utensil cleaning product that is designed, keeping in mind the greasy preparations that are often prepared in Indian households. It&#x2019;s a heavy duty metallic scrubber that comes handy in cleaning woks and pans, and other utensils.Keeping the family health and hygiene on priority, Exo Safai Steel Scrubbers are manufactured from pure stainless steel, ensuring that even with constant contact with water, the scrubber remains rust proof.The curly wire is tempered to make it tough on greasy grime; however incorporates smooth edges to ensure it&#x2019;s safe for hand use.</description>
+    <short_description>Exo Safai Steel Scrubber is a superior utensil cleaning product that is designed  keeping in mind the greasy preparations that are often prepared in Indian households. </short_description>
+    <meta_keyword></meta_keyword>
+    <name>EXO SAFAI STEEL SCRUBBER</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>15</regular_price_with_tax>
+    <regular_price_without_tax>15</regular_price_without_tax>
+    <final_price_with_tax>15</final_price_with_tax>
+    <final_price_without_tax>15</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/e/x/exo_safai_steel_scrubber.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>68</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshophs</sku>
+    <short_description>Hamam brings alive the wisdom behind time-less skincare rituals in convenient and contemporary formats</short_description>
+    <meta_keyword></meta_keyword>
+    <description>Natural skin protection&#xD;
+Complete bathing experience&#xD;
+Recommended by doctors and is suitable for all&#xD;
+Hamam brings alive the wisdom behind time-less skincare rituals in convenient and contemporary formats&#xD;
+Launched in 1931 as a &#x2018;mild, family soap&#x2019;, Hamam soon drew a large natural following long before it was trendy or fashionable to use products with natural ingredients. Perhaps the only Indian-made natural soap at the time, Hamam was embraced by mothers and doctors alike, for its purity and safety on skin. &#xD;
+&#xD;
+Only Hamam has Neem, Tulsi and Aloe Vera which give effective protection from 10 skin problems like rashes, pimples, prickly heat, body odour etc.&#xD;
+Hamam is the most recommended soap by doctors in Tamil Nadu and has a long standing heritage of use traditional ingredients to bring effective skin protection to its consumers</description>
+    <name>Hamam Soap Bar 100gm</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>26</regular_price_with_tax>
+    <regular_price_without_tax>26</regular_price_without_tax>
+    <final_price_with_tax>26</final_price_with_tax>
+    <final_price_without_tax>26</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/a/hamam_soap_bar_100gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>69</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoppcs</sku>
+    <description>good and have better feeling of clove and salt taste but his effectiveness was not seen because i using it from last one month due to toothache . but didn't get better relief</description>
+    <short_description>good and have better feeling of clove and salt taste but his effectiveness was not seen because i using it from last one month due to toothache . but didn't get better relief</short_description>
+    <meta_keyword></meta_keyword>
+    <name>pepsodent clove and salt</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>10</regular_price_with_tax>
+    <regular_price_without_tax>10</regular_price_without_tax>
+    <final_price_with_tax>10</final_price_with_tax>
+    <final_price_without_tax>10</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/e/pepsodent_clove_and_salt.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>70</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopms</sku>
+    <description>The Government Sandalwood Oil factory was established by the then Maharaja of Mysore His Highness Nalwadi Krishna Raja Wodeyar and Diwan Sir, M. Visvesvaraya, during the year 1916 at Mysore, to extract Sandalwood Oil from Sandalwood. The foresight and enthusiasm of Maharaja of Mysore, to keep Mysore State in the Global Map, by introducing THE WORLD'S BEST NATURAL SANDALWOOD OIL Mysore sandalwood oil which is also known as liquid gold and FRAGRANCE AMBASSADOR OF INDIA.</description>
+    <short_description>MYSORE SANDAL SOAP</short_description>
+    <meta_keyword></meta_keyword>
+    <name>MYSORE SANDAL SOAP</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>33</regular_price_with_tax>
+    <regular_price_without_tax>33</regular_price_without_tax>
+    <final_price_with_tax>33</final_price_with_tax>
+    <final_price_without_tax>33</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/m/y/mysore_sandal_soap-75gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>71</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoprlr</sku>
+    <short_description>RIN Refresh Lemon and Rose-500 gms</short_description>
+    <meta_keyword></meta_keyword>
+    <description>Rin Refresh Lemon and Rose-500 gms&#xD;
+Commitment and diligence will no longer be the only traits for which your husband is admired at work. Rin Refresh adds to his shine further with its exciting lemon and rose fragrance. His clothes will now be fragrant with the sweet scent of success while retaining the same unmissable shine you&#x2019;ve grown accustomed to.&#xD;
+Directions for Use:&#xD;
+Add up to 1 scoop (35 gms) of Rin powder in a bucket (10 lts) of water.&#xD;
+Mix the solution for about 15 &#x2013; 30 seconds.&#xD;
+Separate your white garments from your colored ones&#xD;
+Soak your white garments and colored garments in separate wash liquors for about 30 mins.&#xD;
+Gently rub the cuffs and collar/ stained portion of the garments.&#xD;
+Rinse the garments in water 2 &#x2013; 3 times.&#xD;
+Squeeze excess water and dry.&#xD;
+&#xD;
+Tip: Before the main wash, use Rin Ala for your white garments like shirts, vests, etc.&#xD;
+Post main wash, Use Rin Perfect shine for your white garments like vests, towels, school uniforms, etc</description>
+    <name>RIN Refresh Lemon and Rose-500 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>44</regular_price_with_tax>
+    <regular_price_without_tax>44</regular_price_without_tax>
+    <final_price_with_tax>44</final_price_with_tax>
+    <final_price_without_tax>44</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/r/i/rin_refresh_lemon_and_rose-500_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>72</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopaw</sku>
+    <description>One of India's largest detergent brands, Active Wheel aims to bring delight into the lives of millions of women across the country by giving them a blissful laundry experience reminiscent of the fragrance of thousands of flowers&#xD;
+Washing clothes is perceived as a tedious chore by the Indian homemaker. However, Active Wheel, with the strength of lemons and its sweet fragrance, transforms this ordeal into a gratifying experience that lifts her spirits for the day to come.&#xD;
+The brand is available in three formats:&#xD;
+Powders&#xD;
+Bars&#xD;
+Laundry Soaps&#xD;
+Active Wheel Powder is available in three variants with pleasant fragrances such as:&#xD;
+Active Wheel Lemon &amp; Orange&#xD;
+Active Wheel Lemon &amp; Jasmine&#xD;
+Active Wheel Gold</description>
+    <short_description>Washing clothes is perceived as a tedious chore by the Indian homemaker. </short_description>
+    <meta_keyword></meta_keyword>
+    <name>Wheel Active Lemon &amp; Jasmine</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>25</regular_price_with_tax>
+    <regular_price_without_tax>25</regular_price_without_tax>
+    <final_price_with_tax>25</final_price_with_tax>
+    <final_price_without_tax>25</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/w/h/wheel_active_lemon_jasmine.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>74</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoprp-1kg</sku>
+    <description>RIN WASHING POWDER-1KG&#xD;
+Directions for Use:&#xD;
+Add up to 1 scoop (35 gms) of Rin powder in a bucket (10 lts) of water.&#xD;
+Mix the solution for about 15 &#x2013; 30 seconds.&#xD;
+Separate your white garments from your colored ones&#xD;
+Soak your white garments and colored garments in separate wash liquors for about 30 mins.&#xD;
+Gently rub the cuffs and collar/ stained portion of the garments.&#xD;
+Rinse the garments in water 2 &#x2013; 3 times.&#xD;
+Squeeze excess water and dry.&#xD;
+&#xD;
+Tip: Before the main wash, use Rin Ala for your white garments like shirts, vests, etc.&#xD;
+Post main wash, Use Rin Perfect shine for your white garments like vests, towels, school uniforms, etc</description>
+    <short_description>Rin Refresh Lemon and Rose-500 gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>RIN WASHING POWDER-1KG</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>75</regular_price_with_tax>
+    <regular_price_without_tax>75</regular_price_without_tax>
+    <final_price_with_tax>75</final_price_with_tax>
+    <final_price_without_tax>75</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/r/i/rin_washing_powder-1kg.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>75</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopos</sku>
+    <description>oorvasi soap-150+25=175gms</description>
+    <short_description>oorvasi soap-150+25=175gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>oorvasi soap-150+25=175gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>10</regular_price_with_tax>
+    <regular_price_without_tax>10</regular_price_without_tax>
+    <final_price_with_tax>10</final_price_with_tax>
+    <final_price_without_tax>10</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/o/o/oorvasi_soap-150_25_175gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>79</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopus</sku>
+    <description>UJALA SUPREMERise and shine with confidence.&#xD;
+New Ujala Supreme takes you ahead of the whiteness-sameness.A game changer in the liquid fabric whitener category since its launch in the market and has made whiteness synonymous with Ujala. Just 4 drops of Ujala Supreme brightens the fibers and gives your clothes the whiteness they deserve.Ujala Supreme has Ultra Radiance Molecules, that help it to dissolve faster, penetrate deeper and act instantly to make your clothes dazzling white. At only 4 drops to a litre of water, you will get that never before whiteness with uniform and consistent results.Ujala Supreme is available in 30ml, 75ml, and 250ml bottles.</description>
+    <short_description>UJALA SUPREMERise and shine with confidence.</short_description>
+    <meta_keyword></meta_keyword>
+    <name>ujala supreme-75ML</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>20</regular_price_with_tax>
+    <regular_price_without_tax>20</regular_price_without_tax>
+    <final_price_with_tax>20</final_price_with_tax>
+    <final_price_without_tax>20</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/u/j/ujala_blue_1.png</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>80</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoprls</sku>
+    <description>Cotton clothes are always a difficult task to manage. They tend to become lifeless after a wash or become very stiff with patches after a starch. Starching cotton clothes is not easy either. It requires the right amount of starch and water, else the colored clothes will have white patches all over. Revive liquid stiffener is a miraculous solution to this problem. Revive Liquid Stiffener dissolves evenly in water and delivers patch-free starching of cottons and cotton blends. As with Revive powdered starch it provides the ease and convenience of cold-water starching. Unlike other starches, it can be used on whites as well as on colored fabrics. Revive liquid stiffener adds life to your cottons and makes them soft and fresh. It is an easy and convenient way to starch your cottons. It can be used even on terry-cottons. The versatility of this product has made it one of the largest selling product in the category. Marketed by Marico, Revive liquid stiffener is the best way to starch your cottons to add life and sparkle to your clothes. It can be used on both white and colored fabrics.</description>
+    <short_description>Cotton clothes are always a difficult task to manage. They tend to become lifeless after a wash or become very stiff with patches after a starch. </short_description>
+    <meta_keyword></meta_keyword>
+    <name>REVIVE Liquid Stiffener(Large)</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>96</regular_price_with_tax>
+    <regular_price_without_tax>96</regular_price_without_tax>
+    <final_price_with_tax>96</final_price_with_tax>
+    <final_price_without_tax>96</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/r/e/revive_liquid_stiffener.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>81</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopvl</sku>
+    <description>Whereas other products are only just beginning to realise the importance and power of natural ingredients, Vim's use of the power of lemons to provide its unbeatable degreasing power is well-established. We also use other natural products, such as lime, vinegar and green tea to maximize the results, and minimize the number of chemicals in our products and in the environment.&#xD;
+Vim was the original hand dishwashing brand: so we invented the whole category!&#xD;
+Vim is sold in four continents, is the leading hand dishwashing brand in twenty countries, and is available to more than 2 billion people around the world.</description>
+    <short_description>vim Double Power Lemon Dishwash Liquid-250ml</short_description>
+    <meta_keyword></meta_keyword>
+    <name>vim Double Power Lemon Dishwash Liquid-250ml</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>53</regular_price_with_tax>
+    <regular_price_without_tax>53</regular_price_without_tax>
+    <final_price_with_tax>53</final_price_with_tax>
+    <final_price_without_tax>53</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/v/i/vim_double_power_lemon_dishwash_liquid-250ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>84</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopo2x</sku>
+    <description>Odonil-2X FRESHNESS-75 gms&#xD;
+REFRESH EVERY NOOK AND CORNER - THIS MONSOON&#xD;
+Odonil Air Fresheners are available in 'Block' formats. Odonil Blocks are small space fragrances which can be used in your bathrooms, cupboards etc. Odonil Blocks come in a range of exciting fragrances&#xD;
+MYSTIC ROSE&#xD;
+Soak yourself in the enigma of rose petals and feel the enchanting aroma with Odonil Mystic rose air freshener.&#xD;
+LAVENDER MEADOWS&#xD;
+Experience a tinge of lavender in the breeze from green meadows with Odonil lavender meadows air freshener&#xD;
+JASMINE MIST&#xD;
+Feel the timeliness aroma of Jasmine cascading in a floral mist with Odonil jasmine mist room freshener.&#xD;
+ORCHID DEW&#xD;
+Enter the exotic world of orchids , laden with fresh morning dew with Odonil Orchid dew Air fresheners.</description>
+    <short_description>MYSTIC ROSE&#xD;
+Soak yourself in the enigma of rose petals and feel the enchanting aroma with Odonil Mystic rose air freshener.&#xD;
+</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Odonil-2X FRESHNESS-75 gms </name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>58</regular_price_with_tax>
+    <regular_price_without_tax>58</regular_price_without_tax>
+    <final_price_with_tax>58</final_price_with_tax>
+    <final_price_without_tax>58</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/o/d/odonil-2x_freshness-75_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>85</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcs</sku>
+    <description>Alive is Awesome&#xD;
+Cinthol, our over 60-year-young flagship personal care brand, celebrates the spirit of feeling alive. Built on the high-energy proposition of &#x2018;alive is awesome&#x2019;, this brand inspires you to step out of the stale and embrace the fresh, the new. Cinthol was launched on India&#x2019;s independence day in 1952 and has since, been endorsed for its confidence and freshness by celebrities ranging from Vinod Khanna and Imran Khan, to Shah Rukh Khan, Hrithik Roshan and Virat Kohli. With premium international fragrances and innovative designs, it is undoubtedly one of the coolest grooming experiences across soaps, deodorants, talcum powders and shower gels; and the fragrancing and cleansing choice of vibrant, young India.</description>
+    <short_description>The Godrej Group is an Indian conglomerate headquartered in Mumbai, Maharashtra, India, managed and largely owned by the Godrej family.</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Godrej Cinthol Lime 4 Soap pack 4x100g+Cinthol Deo-60 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>90</regular_price_with_tax>
+    <regular_price_without_tax>90</regular_price_without_tax>
+    <final_price_with_tax>90</final_price_with_tax>
+    <final_price_without_tax>90</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/g/o/godrej_cinthol_lime_4_soap_pack_4x100g_cinthol_deo-60_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>86</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopsst</sku>
+    <description>Santoor Sandal &amp; Turmeric Soap Pack Of 4x125gms&#xD;
+Sandal and Turmeric have been an essential part of Indian woman&#x2019;s skin care regimen for centuries. The deep acting ingredients of Turmeric and Sandal  not just provide a smooth, soft and clear skin but also give a  youthful glow to the skin plus it has a fresh energizing and a long lasting fragrance.&#xD;
+&#xD;
+Santoor has grown from a traditional south Indian soap to a modern beauty soap that carries the secret of younger looking skin for wide range of women of different ages and income groups across the country.can be refer as Santoor,Sandal,&amp;,Turmeric,Soap,Pack,Of, 4x125gms,santor,santhoor</description>
+    <short_description>Santoor Sandal &amp; Turmeric Soap Pack Of 4x125gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Santoor Sandal &amp; Turmeric Soap Pack Of 4x125gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>125</regular_price_with_tax>
+    <regular_price_without_tax>125</regular_price_without_tax>
+    <final_price_with_tax>125</final_price_with_tax>
+    <final_price_without_tax>125</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/s/a/santoor_sandal_turmeric_soap_pack_of_4x125gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>87</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopsew</sku>
+    <description>Surf excel Easy Wash-500 gms&#xD;
+Now remove stains easily with the Power of Ten Hands&#xD;
+&#xD;
+We understand that washing and removing stains can be extremely tiring and cumbersome. Especially if you are a mother of a young kid who fills your laundry basket with clothes covered in grass stains from football practice, ketchup stains from lunch and paint stains from art class! Till now you would have to soak his dirty clothes for a couple of hours and then scrub them with your hands using a brush and a bar, and wondered why it takes so much time to remove stains from your kid&#x2019;s clothes? The answer is because regular detergents do not dissolve completely.&#xD;
+But with Surf excel Easy Wash, a superfine powder, tough stains will now be taken off in a jiffy.&#xD;
+&#xD;
+Makes the powder superfine and fluffy so that it dissolves instantly&#xD;
+New Surf excel Easy Wash is made with a superior technology&#xD;
+Unleashes the Power of 10 Hands which remove tough stains like mud, ink, oil, chocolate very easily. aslo refer as Surf,excel,Easy Wash,washing powder</description>
+    <short_description>Now remove stains easily with the Power of Ten Hands</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Surf excel Easy Wash-500 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>55</regular_price_with_tax>
+    <regular_price_without_tax>55</regular_price_without_tax>
+    <final_price_with_tax>55</final_price_with_tax>
+    <final_price_without_tax>55</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/s/u/surf_excel_easy_wash_3_kg_1.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>88</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopsese</sku>
+    <description>Surf excel stain eraser Bar-150 gms&#xD;
+Multiple stain remover in 1 product&#xD;
+As your child explores the world and learns different things, his clothes attract a lot of tough stains. To remove these tough stains you often need to use a host of other products.&#xD;
+Now use New Surf excel Bar which has power of 4 stain removing products.&#xD;
+&#xD;
+Combines the cleaning benefits similar to that of vinegar, blue, bleach, and lemon.&#xD;
+India&#x2019;s most premium detergent bar&#xD;
+Remove tough stains like tea, coffee, turmeric, curry, ketchup, and chocolate with just 1 product-Surf excel Bar.</description>
+    <short_description>Surf excel stain eraser Bar-150 gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Surf excel stain eraser Bar-250 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>27</regular_price_with_tax>
+    <regular_price_without_tax>27</regular_price_without_tax>
+    <final_price_with_tax>27</final_price_with_tax>
+    <final_price_without_tax>27</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/s/u/surf_excel_stain_eraser_bar-150_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>89</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopggk</sku>
+    <description>Godrej Good Knight-45 ml&#xD;
+People hate malaria, dengue and irritating mosquito bites, especially when it comes to their children. That&#x2019;s where Good knight steps in, with simple, innovative, intuitive ways of keeping mosquitoes away.</description>
+    <short_description>Godrej Good Knight-45 ml&#xD;
+People hate malaria, dengue and irritating mosquito bites, especially when it comes to their children.</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Godrej Good Knight-45 ml</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>69</regular_price_with_tax>
+    <regular_price_without_tax>69</regular_price_without_tax>
+    <final_price_with_tax>69</final_price_with_tax>
+    <final_price_without_tax>69</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/g/o/godrej_good_knight-45_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>90</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopsl</sku>
+    <description>1. Clinic Plus Strong &amp; Long Health Shampoo builds hair strength from inside and hair becomes visibly longer with regular usage&#xD;
+&#xD;
+2. It nourishes the hair from inside and makes it strong from within which helps it become progressively longer and more beautiful from outside&#xD;
+&#xD;
+3. Suitable for all hair types</description>
+    <short_description>Clinic Plus Strong &amp; Long Health Shampoo suitable for all hair types.</short_description>
+    <meta_keyword>1. Clinic Plus Strong &amp; Long Health Shampoo builds hair strength from inside and hair becomes visibly longer with regular usage&#xD;
+&#xD;
+2. It nourishes the hair from inside and makes it strong from within which helps it become progressively longer and more beautiful from outside&#xD;
+&#xD;
+3. Suitable for all hair types</meta_keyword>
+    <name>Clinic Plus Strong &amp; Long Health Shampoo (100 ml)</name>
+    <meta_title>Clinic Plus Strong &amp; Long Health Shampoo (100 ml)</meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>57</regular_price_with_tax>
+    <regular_price_without_tax>57</regular_price_without_tax>
+    <final_price_with_tax>57</final_price_with_tax>
+    <final_price_without_tax>57</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/l/clinic_plus_strong_long_health_shampoo_100_ml_.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>92</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopss</sku>
+    <description>Godrej Cinthol Soap&#xD;
+original DEO DORANT AND COMPLEXION SOAP&#xD;
+Its high TFM keeps your skin healthy and glowing. And it is recommended by doctors to reduce risk of skin problems by 95%.&#xD;
+Cinthol, our over 60-year-young flagship personal care brand, celebrates the spirit of feeling alive. Built on the high-energy proposition of &#x2018;alive is awesome&#x2019;, this brand inspires you to step out of the stale and embrace the fresh, the new. Cinthol was launched on India&#x2019;s independence day in 1952 and has since, been endorsed for its confidence and freshness by celebrities ranging from Vinod Khanna and Imran Khan, to Shah Rukh Khan, Hrithik Roshan and Virat Kohli. With premium international fragrances and innovative designs, it is undoubtedly one of the coolest grooming experiences across soaps, deodorants, talcum powders and shower gels; and the fragrancing and cleansing choice of vibrant, young India.</description>
+    <short_description>Godrej Cinthol Soap&#xD;
+original DEO DORANT AND COMPLEXION SOAP</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Godrej Cinthol Soap Red-100g</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>33</regular_price_with_tax>
+    <regular_price_without_tax>33</regular_price_without_tax>
+    <final_price_with_tax>33</final_price_with_tax>
+    <final_price_without_tax>33</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/g/o/godrej_cinthol_soap_red-100g.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>93</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoplvt</sku>
+    <description>LUX VELVET TOUCH BATH SOAP 3x100&#xD;
+Bathe in LUX Velvet Touch's luxurious lather and step out with skin that invites the caress. With moisturizing SilkEssence, Jasmine and Almond Oil, it&#x2019;s time to bid dry skin adieu!</description>
+    <short_description>LUX VELVET TOUCH BATH SOAP 3x100</short_description>
+    <meta_keyword></meta_keyword>
+    <name>LUX VELVET TOUCH BATH SOAP 3x100</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>75</regular_price_with_tax>
+    <regular_price_without_tax>75</regular_price_without_tax>
+    <final_price_with_tax>72</final_price_with_tax>
+    <final_price_without_tax>72</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/l/u/lux_velvet_touch_bath_soap_3x100.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>94</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopls</sku>
+    <description>LUX VELVET TOUCH BATH SOAP-100 gms&#xD;
+Bathe in LUX Velvet Touch's luxurious lather and step out with skin that invites the caress. With moisturizing SilkEssence, Jasmine and Almond Oil, it&#x2019;s time to bid dry skin adieu!</description>
+    <short_description>LUX VELVET TOUCH BATH SOAP-100 gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>LUX VELVET TOUCH BATH SOAP-100 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>25</regular_price_with_tax>
+    <regular_price_without_tax>25</regular_price_without_tax>
+    <final_price_with_tax>24</final_price_with_tax>
+    <final_price_without_tax>24</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/l/u/lux_velvet_touch_bath_soap-100_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>95</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdos</sku>
+    <description>Dettol Original Bar Soap-3x75 gms&#xD;
+100% better protection than ordinary bar soaps*&#xD;
+Dettol Original Soap with classic Dettol fragrance provides Dettol's trusted germ protection from a wide range of unseen germs. It cleanses and protects your skin keeping you healthy everyday</description>
+    <short_description>Dettol Original Bar Soap-3x75 gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Dettol Original Bar Soap-3x75 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>75</regular_price_with_tax>
+    <regular_price_without_tax>75</regular_price_without_tax>
+    <final_price_with_tax>75</final_price_with_tax>
+    <final_price_without_tax>75</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/e/dettol_original_bar_soap-3x75_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>96</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdso1</sku>
+    <description>Dettol Original Bar Soap-75 gms&#xD;
+100% better protection than ordinary bar soaps*&#xD;
+Dettol Original Soap with classic Dettol fragrance provides Dettol's trusted germ protection from a wide range of unseen germs. It cleanses and protects your skin keeping you healthy everyday</description>
+    <short_description>Dettol Original Bar Soap-75 gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Dettol Original Bar Soap-75 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>24</regular_price_with_tax>
+    <regular_price_without_tax>24</regular_price_without_tax>
+    <final_price_with_tax>24</final_price_with_tax>
+    <final_price_without_tax>24</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/e/dettol_original_bar_soap-75_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>97</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopal</sku>
+    <description>Dettol Antiseptic Liquid-500ml&#xD;
+Kills more than 100 illness-causing germs&#xD;
+A house is not a home without a bottle of iconic Dettol Antiseptic Liquid. This versatile and trusted Dettol product provides all-round family protection against germs and has been recommended by medical professionals for generations. &#xD;
+&#xD;
+Use Dettol Antiseptic Disinfectant Liquid to kill germs on the skin, help protect against infection from cuts, scratches and it can also be used as a household disinfectant on surfaces or in laundry. Always use as directed.</description>
+    <short_description>Dettol Antiseptic Liquid-500ml</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Dettol Antiseptic Liquid-500ml</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>106</regular_price_with_tax>
+    <regular_price_without_tax>106</regular_price_without_tax>
+    <final_price_with_tax>106</final_price_with_tax>
+    <final_price_without_tax>106</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/e/dettol_antiseptic_liquid-500ml_1.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>98</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdal</sku>
+    <description>Dettol Antiseptic Liquid-110ml&#xD;
+Kills more than 100 illness-causing germs&#xD;
+A house is not a home without a bottle of iconic Dettol Antiseptic Liquid. This versatile and trusted Dettol product provides all-round family protection against germs and has been recommended by medical professionals for generations. &#xD;
+&#xD;
+Use Dettol Antiseptic Disinfectant Liquid to kill germs on the skin, help protect against infection from cuts, scratches and it can also be used as a household disinfectant on surfaces or in laundry. Always use as directed.</description>
+    <short_description>Dettol Antiseptic Liquid</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Dettol Antiseptic Liquid-110ml</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>29.9</regular_price_with_tax>
+    <regular_price_without_tax>29.9</regular_price_without_tax>
+    <final_price_with_tax>29.9</final_price_with_tax>
+    <final_price_without_tax>29.9</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/e/dettol_antiseptic_liquid-110ml_1.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>99</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoplhw</sku>
+    <description>Dettol skincare Liquid handwash pump-215 ml&#xD;
+10x better protection against germs*&#xD;
+Did you know Dettol Hand Wash gives 10 times better protection against stomach bugs and skin infections?&#xD;
+&#xD;
+Using it everyday protects hands from germs and helps keep them hygienically clean.&#xD;
+&#xD;
+Dettol Skincare with added moisturizers: a pH-balanced formula with Dettol's trusted germ protection that will help your skin feel healthy and soft.</description>
+    <short_description>Dettol skincare Liquid handwash pump</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Dettol skincare Liquid handwash pump-215 ml</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>74</regular_price_with_tax>
+    <regular_price_without_tax>74</regular_price_without_tax>
+    <final_price_with_tax>69</final_price_with_tax>
+    <final_price_without_tax>69</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/e/dettol_skincare_liquid_handwash_pump-215_ml_1.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>100</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopld</sku>
+    <description>LIzol Dettol DISINFECTANT surface cleaner-500ml&#xD;
+Lizol is now endorsed by Indian Medical Association &#xD;
+Only cleaning isn't enough - Indian Medical Association endorses Germ Clean&#xD;
+Cleaning your household surfaces with ordinary cleaners like Phenyls does not guarantee complete germ kill. Medical Professionals recommend a disinfectant surface cleaner being used with mopping water for effective Germ kill and cleanliness, more so if there are small babies / kids in the family. Lizol, India's No.1 Disinfectant Surface Cleaner*, has been endorsed by Indian Medical Association (IMA). It is the only disinfectant in India to get this endorsement.</description>
+    <short_description>LIzol Dettol DISINFECTANT surface cleaner-500ml</short_description>
+    <meta_keyword></meta_keyword>
+    <name>LIzol Dettol DISINFECTANT surface cleaner-500ml</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>74</regular_price_with_tax>
+    <regular_price_without_tax>74</regular_price_without_tax>
+    <final_price_with_tax>74</final_price_with_tax>
+    <final_price_without_tax>74</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/l/i/lizol_dettol_disinfectant_surface_cleaner-500ml_1.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>101</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopusb</sku>
+    <description>UJALA SUPREME-250ml.&#xD;
+UJALA SUPREMERise and shine with confidence.&#xD;
+New Ujala Supreme takes you ahead of the whiteness-sameness.A game changer in the liquid fabric whitener category since its launch in the market and has made whiteness synonymous with Ujala. Just 4 drops of Ujala Supreme brightens the fibers and gives your clothes the whiteness they deserve.Ujala Supreme has Ultra Radiance Molecules, that help it to dissolve faster, penetrate deeper and act instantly to make your clothes dazzling white. At only 4 drops to a litre of water, you will get that never before whiteness with uniform and consistent results.Ujala Supreme is available in 30ml, 75ml, and 250ml bottles</description>
+    <short_description>UJALA SUPREME-250ml</short_description>
+    <meta_keyword></meta_keyword>
+    <name>UJALA SUPREME-250ml</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>60</regular_price_with_tax>
+    <regular_price_without_tax>60</regular_price_without_tax>
+    <final_price_with_tax>60</final_price_with_tax>
+    <final_price_without_tax>60</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/u/j/ujala_supreme-250ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>104</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopbms</sku>
+    <description>JOHNSON&#x2019;S&#xAE; baby milk soap-75gms&#xD;
+Keep your baby&#x2019;s skin feeling healthy and smooth.&#xD;
+&#xD;
+Form-fitting, grippable bar for easy bathing&#xD;
+Enriched with moisturizer to help protect baby&#x2019;s skin from dryness&#xD;
+Use bathtime to gently keep your baby&#x2019;s skin feeling healthy and smooth with JOHNSON&#x2019;S&#xAE; baby bar, enriched with moisturizer to help protect baby&#x2019;s skin from dryness.</description>
+    <short_description>JOHNSON&#x2019;S&#xAE; baby milk soap-75gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>JOHNSON&#x2019;S&#xAE; baby milk soap-75gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>45</regular_price_with_tax>
+    <regular_price_without_tax>45</regular_price_without_tax>
+    <final_price_with_tax>45</final_price_with_tax>
+    <final_price_without_tax>45</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/j/o/johnson_s_baby_milk_soap-75gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>105</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopjbs</sku>
+    <description>JOHNSON&#x2019;S&#xAE; baby milk soap-150 gms&#xD;
+Keep your baby&#x2019;s skin feeling healthy and smooth.&#xD;
+&#xD;
+Form-fitting, grippable bar for easy bathing&#xD;
+Enriched with moisturizer to help protect baby&#x2019;s skin from dryness&#xD;
+Use bathtime to gently keep your baby&#x2019;s skin feeling healthy and smooth with JOHNSON&#x2019;S&#xAE; baby bar, enriched with moisturizer to help protect baby&#x2019;s skin from dryness.</description>
+    <short_description>JOHNSON&#x2019;S&#xAE; baby milk soap</short_description>
+    <meta_keyword></meta_keyword>
+    <name>JOHNSON&#x2019;S&#xAE; baby milk soap-150gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>75</regular_price_with_tax>
+    <regular_price_without_tax>75</regular_price_without_tax>
+    <final_price_with_tax>75</final_price_with_tax>
+    <final_price_without_tax>75</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/j/o/johnson_s_baby_milk_soap-150gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>106</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopfl</sku>
+    <description>Fair &amp; Lovelycream-25 gms&#xD;
+Fair &amp; Lovely's skin-lightening technology is known to be the best in the world! However, this hasn&#x2019;t stopped the brand from innovating further to pioneer the development of cutting-edge fairness solutions.&#xD;
+Fair &amp; Lovely's brand-essence of &#x2018;Rescripting Destiny&#x2019; has played a decisive role in its noteworthy presence in over 30 countries. Today, 250 million consumers across the globe strongly connect with Fair &amp; Lovely as a brand that stands for the belief that 'beauty that empowers a woman to change her destiny'. The brand's commitment towards empowering women has inspired the initiation of Fair &amp; Lovely Foundation. Time after time the foundation initiates various education &amp; employment-related programs that give underprivileged women the power to overcome all barriers &amp; change their lives.</description>
+    <short_description>Fair &amp; Lovely cream-25 gms</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Fair &amp; Lovely cream-25 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>47</regular_price_with_tax>
+    <regular_price_without_tax>47</regular_price_without_tax>
+    <final_price_with_tax>47</final_price_with_tax>
+    <final_price_without_tax>47</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/f/a/fair_lovely_cream-25_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>107</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopflb</sku>
+    <description>Fair &amp; Lovely cream-50 gms&#xD;
+Fair &amp; Lovely's skin-lightening technology is known to be the best in the world! However, this hasn&#x2019;t stopped the brand from innovating further to pioneer the development of cutting-edge fairness solutions.&#xD;
+Fair &amp; Lovely's brand-essence of &#x2018;Rescripting Destiny&#x2019; has played a decisive role in its noteworthy presence in over 30 countries. Today, 250 million consumers across the globe strongly connect with Fair &amp; Lovely as a brand that stands for the belief that 'beauty that empowers a woman to change her destiny'. The brand's commitment towards empowering women has inspired the initiation of Fair &amp; Lovely Foundation. Time after time the foundation initiates various education &amp; employment-related programs that give underprivileged women the power to overcome all barriers &amp; change their lives.</description>
+    <short_description>Fair &amp; Lovely cream-50 gms.</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Fair &amp; Lovely cream-50 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>89</regular_price_with_tax>
+    <regular_price_without_tax>89</regular_price_without_tax>
+    <final_price_with_tax>89</final_price_with_tax>
+    <final_price_without_tax>89</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/f/a/fair_lovely_cream-50_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>108</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopnp</sku>
+    <description>Nycil - Classic Prevents prickly heat-187.5&#xD;
+With a heritage of over 49 years, Nycil is one of the most trusted and recognized powder brands in India. Nycil is the leader in the prickly heat powder category and has driven growth in this category over the years.&#xD;
+&#xD;
+Nycil understands the concerns of mothers and offers products to prevent prickly heat. It has been proven that Nycil, if used twice a day for 4 weeks, prevents prickly heat.&#xD;
+&#xD;
+Enjoy the summers, with the 'caring' protection of Nycil!</description>
+    <short_description>Nycil - Classic Prevents prickly heat</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Nycil - Classic Prevents prickly heat-150+37.5=187.5</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>77</regular_price_with_tax>
+    <regular_price_without_tax>77</regular_price_without_tax>
+    <final_price_with_tax>77</final_price_with_tax>
+    <final_price_without_tax>77</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/n/y/nycil_-_classic_prevents_prickly_heat-150_37.5_187.5.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>109</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopgj</sku>
+    <description>Nycil - Cool Gulabjal prickly heat powder-187.5 gms&#xD;
+Nycil - Classic Prevents prickly heat-187.5&#xD;
+With a heritage of over 49 years, Nycil is one of the most trusted and recognized powder brands in India. Nycil is the leader in the prickly heat powder category and has driven growth in this category over the years.&#xD;
+&#xD;
+Nycil understands the concerns of mothers and offers products to prevent prickly heat. It has been proven that Nycil, if used twice a day for 4 weeks, prevents prickly heat.</description>
+    <short_description>Nycil -Cool Gulabjal prickly heat powder.</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Nycil - Cool Gulabjal prickly heat powder-187.5 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>77</regular_price_with_tax>
+    <regular_price_without_tax>77</regular_price_without_tax>
+    <final_price_with_tax>77</final_price_with_tax>
+    <final_price_without_tax>77</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/n/y/nycil_-_cool_gulabjal_prickly_heat_powder-187.5_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>110</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopbpi</sku>
+    <description>Boroplus Prickly Heat Powder-150+30gms free=180 gms&#xD;
+BoroPlus Prickly Heat Powder was launched as an Ayurvedic Prickly Heat Powder in mid 80's. It provides quick &amp; long lasting relief from prickly heat. It prevents skin problems like heat rash, burning sensation and other minor skin infections. It is excellent in absorbing sweat &amp; prevents body odor to keep you fresh, all day long.&#xD;
+A completely herbal formulation is mild , gentle and skin friendly . The unique feature of the brand is its ability to provide the cooling relief through the natural goodness of herbs. The powder contains natural herbs that give almost instant relief to prickly heat with its cooling sensation and erases the skin problems like itches and rashes that are most notable during summer.&#xD;
+</description>
+    <short_description>Boroplus Prickly Heat Powder</short_description>
+    <meta_keyword></meta_keyword>
+    <name>Boroplus Prickly Heat Powder-150+30gms free=180 gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>75</regular_price_with_tax>
+    <regular_price_without_tax>75</regular_price_without_tax>
+    <final_price_with_tax>75</final_price_with_tax>
+    <final_price_without_tax>75</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/b/o/boroplus_prickly_heat_powder-150_30gms_free_180_gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>111</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoppp</sku>
+    <description>POND'S Dreamflower Fragrant Talc-100gms&#xD;
+A talc plays an important role in one&#x2019;s grooming and keeping. I recently bought this Pond&#x2019;s Dreamflower Skin Brightening Talc. My mom has been using this for a decade now but I never thought of trying it. She discontinued using it. The day I smelled this I wanted it. So I finally picked it up from a local grocery store. I picked the smallest pack available because I knew I am not going to use it on daily basis as I am more of a deodorant and perfume person than talc.</description>
+    <short_description>POND'S Dreamflower Fragrant Talc.</short_description>
+    <meta_keyword></meta_keyword>
+    <name>POND'S Dreamflower Fragrant Talc-100gms</name>
+    <meta_title></meta_title>
+    <meta_description></meta_description>
+    <regular_price_with_tax>60</regular_price_with_tax>
+    <regular_price_without_tax>60</regular_price_without_tax>
+    <final_price_with_tax>60</final_price_with_tax>
+    <final_price_without_tax>60</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/o/pond_s_dreamflower_fragrant_talc-100gms.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>112</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshophm</sku>
+    <description>Having trouble removing the toughest of stains from your clothes with your regular detergent powder? Switch to Henko Matic Front Load Detergent Powder instead. This not only eradicates all the grime and dirt but also kills the germs and bacteria and leaves a pleasant fragrance in the washed clothes.</description>
+    <short_description>Having trouble removing the toughest of stains from your clothes with your regular detergent powder? </short_description>
+    <meta_keyword>Having trouble removing the toughest of stains from your clothes with your regular detergent powder? Switch to Henko Matic Front Load Detergent Powder instead. This not only eradicates all the grime and dirt but also kills the germs and bacteria and leaves a pleasant fragrance in the washed clothes.</meta_keyword>
+    <name>Henko Matic Front Load Detergent Powder 1 Kg</name>
+    <meta_title>Henko Matic Front Load Detergent Powder 1 Kg</meta_title>
+    <meta_description>Having trouble removing the toughest of stains from your clothes with your regular detergent powder? Switch to Henko Matic Front Load Detergent Powder instead. This not only eradicates all the grime and dirt but also kills the germs and bacteria and leave</meta_description>
+    <regular_price_with_tax>237</regular_price_with_tax>
+    <regular_price_without_tax>237</regular_price_without_tax>
+    <final_price_with_tax>237</final_price_with_tax>
+    <final_price_without_tax>237</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/e/henko_matic_front_load_detergent_powder_1_kg.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>113</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoptl</sku>
+    <description>Get rid of the toughest of stains, without getting your hands dirty, with Henko Matic&#x2019;s Top Load detergent. This revolutionary product can remove the hardest and most obnoxious looking stains, while being gentle on your clothes. After multiple washes too, your clothes will still look as good as new. Grab yours, now.</description>
+    <short_description>Get rid of the toughest of stains, without getting your hands dirty, with Henko Matic&#x2019;s Top Load detergent.</short_description>
+    <meta_keyword>Get rid of the toughest of stains, without getting your hands dirty, with Henko Matic&#x2019;s Top Load detergent. This revolutionary product can remove the hardest and most obnoxious looking stains, while being gentle on your clothes. After multiple washes too, your clothes will still look as good as new. Grab yours, now.</meta_keyword>
+    <name>Henko Matic Top Load Detergent Powder 1 Kg</name>
+    <meta_title>Henko Matic Top Load Detergent Powder 1 Kg</meta_title>
+    <meta_description>Get rid of the toughest of stains, without getting your hands dirty, with Henko Matic&#x2019;s Top Load detergent. This revolutionary product can remove the hardest and most obnoxious looking stains, while being gentle on your clothes. After multiple washes too,</meta_description>
+    <regular_price_with_tax>275</regular_price_with_tax>
+    <regular_price_without_tax>275</regular_price_without_tax>
+    <final_price_with_tax>275</final_price_with_tax>
+    <final_price_without_tax>275</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/e/henko_matic_top_load_detergent_powder_1_kg.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>117</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcr</sku>
+    <description>Chandrika Regular Green Soap 115 gm&#xD;
+Chandrika Regular Green Soap promises the goodness of Active Ayurveda through seven essential Ayurvedic oils that nourish your skin from deep within. The result is healthy and naturally moisturized skin. It is a hand-made soap that also prevents skin problems.</description>
+    <short_description>Chandrika Regular Green Soap 115 gm.</short_description>
+    <meta_keyword>Chandrika Regular Green Soap 115 gm&#xD;
+Chandrika Regular Green Soap promises the goodness of Active Ayurveda through seven essential Ayurvedic oils that nourish your skin from deep within. The result is healthy and naturally moisturized skin. It is a hand-made soap that also prevents skin problems.</meta_keyword>
+    <name>Chandrika Regular Green Soap 115 gm</name>
+    <meta_title>Chandrika Regular Green Soap 115 gm</meta_title>
+    <meta_description>Chandrika Regular Green Soap 115 gm&#xD;
+Chandrika Regular Green Soap promises the goodness of Active Ayurveda through seven essential Ayurvedic oils that nourish your skin from deep within. The result is healthy and naturally moist</meta_description>
+    <regular_price_with_tax>37</regular_price_with_tax>
+    <regular_price_without_tax>37</regular_price_without_tax>
+    <final_price_with_tax>37</final_price_with_tax>
+    <final_price_without_tax>37</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chandrika_regular_green_soap_115_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>119</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcal</sku>
+    <description>Clear Active Care Anti Dandruff Shampoo 170 ml&#xD;
+Nourish your scalp and keep it dandruff free with Clear Complete Active Care anti-dandruff shampoo. It is formulated with the revolutionary nutrium oil complex technology and replenishes your hair and scalp with the essential nourishment. It effectively reduces grease and itchiness. Pick this shampoo and say goodbye to the messy dandruff.</description>
+    <short_description>Clear Active Care Anti Dandruff Shampoo 170 ml</short_description>
+    <meta_keyword>Clear Active Care Anti Dandruff Shampoo 170 ml&#xD;
+Nourish your scalp and keep it dandruff free with Clear Complete Active Care anti-dandruff shampoo. It is formulated with the revolutionary nutrium oil complex technology and replenishes your hair and scalp with the essential nourishment. It effectively reduces grease and itchiness. Pick this shampoo and say goodbye to the messy dandruff.</meta_keyword>
+    <name>Clear Active Care Anti Dandruff Shampoo 170 ml</name>
+    <meta_title>Clear Active Care Anti Dandruff Shampoo 170 ml</meta_title>
+    <meta_description>Clear Active Care Anti Dandruff Shampoo 170 ml&#xD;
+Nourish your scalp and keep it dandruff free with Clear Complete Active Care anti-dandruff shampoo. It is formulated with the revolutionary nutrium oil complex technology and replenishes your hair and scalp </meta_description>
+    <regular_price_with_tax>163</regular_price_with_tax>
+    <regular_price_without_tax>163</regular_price_without_tax>
+    <final_price_with_tax>163</final_price_with_tax>
+    <final_price_without_tax>163</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/l/clear_active_care_anti_dandruff_shampoo_170_ml-min.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>120</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshope5</sku>
+    <description>Tired removing those greasy stains from the utensils after your everyday cooking? Discard all your old dish wash bars and choose Exo Dish Shine Round bar that not only cleans your utensils but also protects them from germs and bacteria. The anti-bacterial dish wash bar removes the sticky oil stains and burnt food residues from the utensils effortlessly and makes them sparkling clean. Cleaning utensils have never been this easy.</description>
+    <short_description>Tired removing those greasy stains from the utensils after your everyday cooking?</short_description>
+    <meta_keyword>Tired removing those greasy stains from the utensils after your everyday cooking? Discard all your old dish wash bars and choose Exo Dish Shine Round bar that not only cleans your utensils but also protects them from germs and bacteria. The anti-bacterial dish wash bar removes the sticky oil stains and burnt food residues from the utensils effortlessly and makes them sparkling clean. Cleaning utensils have never been this easy.</meta_keyword>
+    <name>Exo Dish Shine Round Bar 500 gm</name>
+    <meta_title>Exo Dish Shine Round Bar 500 gm</meta_title>
+    <meta_description>Tired removing those greasy stains from the utensils after your everyday cooking? Discard all your old dish wash bars and choose Exo Dish Shine Round bar that not only cleans your utensils but also protects them from germs and bacteria. The anti-bacterial</meta_description>
+    <regular_price_with_tax>48</regular_price_with_tax>
+    <regular_price_without_tax>48</regular_price_without_tax>
+    <final_price_with_tax>48</final_price_with_tax>
+    <final_price_without_tax>48</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/e/x/exo_dish_shine_round_500_g-228x228.png</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>121</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcac</sku>
+    <description>Clear Anti Hair Fall Shampoo 200 ml&#xD;
+Hair fall is a common problem these days. It only adds on to the stress. With Clear Anti Hair Fall Shampoo, bid adieu to hair fall. This shampoo is formulated with the revolutionary nutrium oil complex technology. Weakened scalp and hair is treated with this technology which helps in getting rid of dandruff along with strengthening the hair from its tips thus reducing hair fall. Switch to Clear and promote hair growth</description>
+    <short_description>Clear Anti Hair Fall Shampoo 200 ml Hair fall is a common problem these days.</short_description>
+    <meta_keyword>Clear Anti Hair Fall Shampoo 200 ml&#xD;
+Hair fall is a common problem these days. It only adds on to the stress. With Clear Anti Hair Fall Shampoo, bid adieu to hair fall. This shampoo is formulated with the revolutionary nutrium oil complex technology. Weakened scalp and hair is treated with this technology which helps in getting rid of dandruff along with strengthening the hair from its tips thus reducing hair fall. Switch to Clear and promote hair growth!</meta_keyword>
+    <name>Clear Anti Hair Fall Shampoo 200 ml</name>
+    <meta_title>Clear Anti Hair Fall Shampoo 200 ml</meta_title>
+    <meta_description>Clear Anti Hair Fall Shampoo 200 ml&#xD;
+Hair fall is a common problem these days. It only adds on to the stress. With Clear Anti Hair Fall Shampoo, bid adieu to hair fall. This shampoo is formulated with the revolutionary nutrium oil complex technology. Weak</meta_description>
+    <regular_price_with_tax>163</regular_price_with_tax>
+    <regular_price_without_tax>163</regular_price_without_tax>
+    <final_price_with_tax>163</final_price_with_tax>
+    <final_price_without_tax>163</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/l/clear_anti_hair_fall_shampoo_200_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>122</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopmw</sku>
+    <description>Bid adieu to even the toughest stain and keep your whites shining bright like new with Mr. White Detergent Powder. Crammed with the power of lime and whiteness boosters, this shall definitely provide long-lasting whiteness to clothes even after numerous washes.</description>
+    <short_description>Bid adieu to even the toughest stain and keep your whites shining bright like new with Mr. White Detergent Powder. </short_description>
+    <meta_keyword>Bid adieu to even the toughest stain and keep your whites shining bright like new with Mr. White Detergent Powder. Crammed with the power of lime and whiteness boosters, this shall definitely provide long-lasting whiteness to clothes even after numerous washes.</meta_keyword>
+    <name>Mr White Powder 3 Kg</name>
+    <meta_title>Mr White Powder 3 Kg Bucket Pack</meta_title>
+    <meta_description>Bid adieu to even the toughest stain and keep your whites shining bright like new with Mr. White Detergent Powder. Crammed with the power of lime and whiteness boosters, this shall definitely provide long-lasting whiteness to clothes even after numerous w</meta_description>
+    <regular_price_with_tax>285</regular_price_with_tax>
+    <regular_price_without_tax>285</regular_price_without_tax>
+    <final_price_with_tax>285</final_price_with_tax>
+    <final_price_without_tax>285</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/m/r/mr_white_powder_3_kg_bucket_pack.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>123</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcss</sku>
+    <description>Cinthol Fresh Soap 5x100 gm&#xD;
+Enjoy a sublime and aromatic bath with active lime formula for a revitalizing experience. Buy this pack of Cinthol Fresh, a bathing soap bar that plays a role of an effective deodorant, as well! It keeps you fresh and active, ensuring full protection 24x7, from obnoxious sweat and body odour.</description>
+    <short_description>Cinthol Fresh Soap 5x100 gm.</short_description>
+    <meta_keyword>Cinthol Fresh Soap 5x100 gm&#xD;
+Enjoy a sublime and aromatic bath with active lime formula for a revitalizing experience. Buy this pack of Cinthol Fresh, a bathing soap bar that plays a role of an effective deodorant, as well! It keeps you fresh and active, ensuring full protection 24x7, from obnoxious sweat and body odour.</meta_keyword>
+    <name>Cinthol Fresh Soap 5x100 gm</name>
+    <meta_title>Cinthol Fresh Soap 5x100 gm</meta_title>
+    <meta_description>Cinthol Fresh Soap 5x100 gm&#xD;
+Enjoy a sublime and aromatic bath with active lime formula for a revitalizing experience. Buy this pack of Cinthol Fresh, a bathing soap bar that plays a role of an effective deodorant, as well! It keeps you fresh and active, </meta_description>
+    <regular_price_with_tax>109</regular_price_with_tax>
+    <regular_price_without_tax>109</regular_price_without_tax>
+    <final_price_with_tax>109</final_price_with_tax>
+    <final_price_without_tax>109</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/i/cinthol_fresh_soap_5x100_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>125</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcps</sku>
+    <description>Clinic Plus Natural Shampoo 175 ml&#xD;
+Clinic Plus has Milk Protein Formula which reduces hairfall by 98%. It strengthens weak hair, prevents hair breakage &amp; softens rough dry hair, shine for thick and healthy hair. So go ahead with the freedom to experiment with your hair, without worrying about hairfall.</description>
+    <short_description>Clinic Plus Natural Shampoo 175 ml</short_description>
+    <meta_keyword>linic Plus Natural Shampoo 175 ml&#xD;
+Clinic Plus has Milk Protein Formula which reduces hairfall by 98%. It strengthens weak hair, prevents hair breakage &amp; softens rough dry hair, shine for thick and healthy hair. So go ahead with the freedom to experiment with your hair, without worrying about hairfall.</meta_keyword>
+    <name>Clinic Plus Natural Shampoo 175 ml</name>
+    <meta_title>linic Plus Natural Shampoo 175 ml</meta_title>
+    <meta_description>linic Plus Natural Shampoo 175 ml&#xD;
+Clinic Plus has Milk Protein Formula which reduces hairfall by 98%. It strengthens weak hair, prevents hair breakage &amp; softens rough dry hair, shine for thick and healthy hair. So go ahead with the freedom to experiment </meta_description>
+    <regular_price_with_tax>142</regular_price_with_tax>
+    <regular_price_without_tax>142</regular_price_without_tax>
+    <final_price_with_tax>142</final_price_with_tax>
+    <final_price_without_tax>142</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/l/clinic_plus_natural_shampoo_175_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>126</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcpf</sku>
+    <description>Colgate Plax Fresh Mint Mouthwash 250 mlGet a cleaner, fresher and healthier mouth by using Colgate Plax Fresh Mint Mouthwash after brushing everyday. This removes up to 99.9% of germs, provides long-lasting fresh breath and gives you healthier gums and clinically proven 12-hour protection against bacteria and plaque. Time to include this in your oral care essentials.</description>
+    <short_description>Get a cleaner, fresher and healthier mouth by using Colgate Plax Fresh Mint Mouthwash after brushing everyday. </short_description>
+    <meta_keyword>Get a cleaner, fresher and healthier mouth by using Colgate Plax Fresh Mint Mouthwash after brushing everyday. This removes up to 99.9% of germs, provides long-lasting fresh breath and gives you healthier gums and clinically proven 12-hour protection against bacteria and plaque. Time to include this in your oral care essentials.</meta_keyword>
+    <name>Colgate Plax Fresh Mint Mouthwash 250 ml</name>
+    <meta_title>Colgate Plax Fresh Mint Mouthwash 250 ml</meta_title>
+    <meta_description>Get a cleaner, fresher and healthier mouth by using Colgate Plax Fresh Mint Mouthwash after brushing everyday. This removes up to 99.9% of germs, provides long-lasting fresh breath and gives you healthier gums and clinically proven 12-hour protection agai</meta_description>
+    <regular_price_with_tax>110</regular_price_with_tax>
+    <regular_price_without_tax>110</regular_price_without_tax>
+    <final_price_with_tax>110</final_price_with_tax>
+    <final_price_without_tax>110</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/o/colgate_plax_fresh_mint_mouthwash_250_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>127</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoppl</sku>
+    <description>For utensils which are sparkling clean, every time you wash them, get Pril Dishwash Liquid which is an expert in 'degreasing'. The best solution for all your greasy problems - be it your vessels or the kitchen tiles. This dishwashing liquid has anti-bacterial properties which kills 99.9% germs. Not just that, it comes along with a refreshing scent which instantly lifts up your mood.</description>
+    <short_description>For utensils which are sparkling clean, every time you wash them, get Pril Dishwash Liquid which is an expert in 'degreasing'. </short_description>
+    <meta_keyword>For utensils which are sparkling clean, every time you wash them, get Pril Dishwash Liquid which is an expert in 'degreasing'. The best solution for all your greasy problems - be it your vessels or the kitchen tiles. This dishwashing liquid has anti-bacterial properties which kills 99.9% germs. Not just that, it comes along with a refreshing scent which instantly lifts up your mood.</meta_keyword>
+    <name>Pril Dishwash Liquid 225 ml</name>
+    <meta_title>Pril Dishwash Liquid 225 ml</meta_title>
+    <meta_description>For utensils which are sparkling clean, every time you wash them, get Pril Dishwash Liquid which is an expert in 'degreasing'. The best solution for all your greasy problems - be it your vessels or the kitchen tiles. This dishwashing liquid has anti-bacte</meta_description>
+    <regular_price_with_tax>60</regular_price_with_tax>
+    <regular_price_without_tax>60</regular_price_without_tax>
+    <final_price_with_tax>60</final_price_with_tax>
+    <final_price_without_tax>60</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/r/pril_dishwash_liquid_225_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>128</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcfm</sku>
+    <description>Colgate Plax Mouthwash Pepper mint provides you with clinically proven 12-hour protection against bacteria and plaque. Your mouth stays cleaner, fresher and healthier. It has a great refreshing taste and gives long lasting fresh breath.</description>
+    <short_description>Colgate Plax Mouthwash Pepper mint provides you with clinically proven 12-hour protection against bacteria and plaque.</short_description>
+    <meta_keyword>Colgate Plax Mouthwash Pepper mint provides you with clinically proven 12-hour protection against bacteria and plaque. Your mouth stays cleaner, fresher and healthier. It has a great refreshing taste and gives long lasting fresh breath.</meta_keyword>
+    <name>Colgate Plax Peppermint Mouthwash 250 ml</name>
+    <meta_title>Colgate Plax Peppermint Mouthwash 250 ml</meta_title>
+    <meta_description>Colgate Plax Mouthwash Pepper mint provides you with clinically proven 12-hour protection against bacteria and plaque. Your mouth stays cleaner, fresher and healthier. It has a great refreshing taste and gives long lasting fresh breath.</meta_description>
+    <regular_price_with_tax>110</regular_price_with_tax>
+    <regular_price_without_tax>110</regular_price_without_tax>
+    <final_price_with_tax>110</final_price_with_tax>
+    <final_price_without_tax>110</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/o/colgate_plax_peppermint_mouthwash_250_m.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>129</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcbr</sku>
+    <description>Colgate Sensitive Toothbrush has a unique design that cleans between teeth and removes plaque. It easily reaches even those hard-to-reach areas. The handle is designed in a user-friendly way, as it is equipped with a non-slip grip for easier handling.</description>
+    <short_description>Colgate Sensitive Toothbrush has a unique design that cleans between teeth and removes plaque. </short_description>
+    <meta_keyword>Colgate Sensitive Toothbrush has a unique design that cleans between teeth and removes plaque. It easily reaches even those hard-to-reach areas. The handle is designed in a user-friendly way, as it is equipped with a non-slip grip for easier handling.</meta_keyword>
+    <name>Colgate Sensitive Tooth Brush 2+1 Nos</name>
+    <meta_title>Colgate Sensitive Tooth Brush 2+1 Nos</meta_title>
+    <meta_description>Colgate Sensitive Toothbrush has a unique design that cleans between teeth and removes plaque. It easily reaches even those hard-to-reach areas. The handle is designed in a user-friendly way, as it is equipped with a non-slip grip for easier handling.</meta_description>
+    <regular_price_with_tax>98</regular_price_with_tax>
+    <regular_price_without_tax>98</regular_price_without_tax>
+    <final_price_with_tax>98</final_price_with_tax>
+    <final_price_without_tax>98</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/o/colgate_sensitive_tooth_brush_2_1_nos.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>130</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopps</sku>
+    <description>For complete cleaning of your vessels, pick a bar of Pril Lime Dishwash. This bar has the double action of lime and vinegar. Lime fights the tough grease and burnt marks, while the vinegar removes all the residual food odour. Taking excellent care of your dishes, this bar is undoubtedly the best choice. Pick one now!</description>
+    <short_description>For complete cleaning of your vessels, pick a bar of Pril Lime Dishwash. This bar has the double action of lime and vinegar.</short_description>
+    <meta_keyword>For complete cleaning of your vessels, pick a bar of Pril Lime Dishwash. This bar has the double action of lime and vinegar. Lime fights the tough grease and burnt marks, while the vinegar removes all the residual food odour. Taking excellent care of your dishes, this bar is undoubtedly the best choice. Pick one now!</meta_keyword>
+    <name>Pril Lime Dishwash Bar 3x400 gm</name>
+    <meta_title>Pril Lime Dishwash Bar 3x400 gm</meta_title>
+    <meta_description>For complete cleaning of your vessels, pick a bar of Pril Lime Dishwash. This bar has the double action of lime and vinegar. Lime fights the tough grease and burnt marks, while the vinegar removes all the residual food odour. Taking excellent care of your</meta_description>
+    <regular_price_with_tax>97</regular_price_with_tax>
+    <regular_price_without_tax>97</regular_price_without_tax>
+    <final_price_with_tax>97</final_price_with_tax>
+    <final_price_without_tax>97</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/p/r/pril_lime_dishwash_bar_3x400_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>132</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopccb</sku>
+    <description>Colgate Slimsoft Charcoal Twin Toothbrush 1 No</description>
+    <short_description>Colgate Slimsoft Charcoal Twin Toothbrush 1 No</short_description>
+    <meta_keyword>Colgate Slimsoft Charcoal Twin Toothbrush 1 Nos</meta_keyword>
+    <name>Colgate Slimsoft Charcoal Twin Toothbrush 1 No</name>
+    <meta_title>Colgate Slimsoft Charcoal Twin Toothbrush 1 Nos</meta_title>
+    <meta_description>Colgate Slimsoft Charcoal Twin Toothbrush 1 Nos</meta_description>
+    <regular_price_with_tax>140</regular_price_with_tax>
+    <regular_price_without_tax>140</regular_price_without_tax>
+    <final_price_with_tax>140</final_price_with_tax>
+    <final_price_without_tax>140</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/o/colgate_slimsoft_charcoal_twin_toothbrush_1_no.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>134</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcvw</sku>
+    <description>Nothing turns you off more than pale yellow shade of teeth. Getting that perfect sparkling white smile is not a big deal anymore. Add Colgate Visible White Toothpaste to your oral hygiene essentials, which is equipped with advanced white accelerators that can make your teeth one shade whiter in just a week. Special ingredients like silica and polyphosphates remove and prevent stains on the teeth. Now flash your dazzling smile with even more confidence!</description>
+    <short_description>Nothing turns you off more than pale yellow shade of teeth. Getting that perfect sparkling white smile is not a big deal anymore.</short_description>
+    <meta_keyword>Nothing turns you off more than pale yellow shade of teeth. Getting that perfect sparkling white smile is not a big deal anymore. Add Colgate Visible White Toothpaste to your oral hygiene essentials, which is equipped with advanced white accelerators that can make your teeth one shade whiter in just a week. Special ingredients like silica and polyphosphates remove and prevent stains on the teeth. Now flash your dazzling smile with even more confidence!</meta_keyword>
+    <name>Colgate Visible White Tooth Paste 100 gm</name>
+    <meta_title>Colgate Visible White Tooth Paste 100 gm</meta_title>
+    <meta_description>Nothing turns you off more than pale yellow shade of teeth. Getting that perfect sparkling white smile is not a big deal anymore. Add Colgate Visible White Toothpaste to your oral hygiene essentials, which is equipped with advanced white accelerators that</meta_description>
+    <regular_price_with_tax>87</regular_price_with_tax>
+    <regular_price_without_tax>87</regular_price_without_tax>
+    <final_price_with_tax>87</final_price_with_tax>
+    <final_price_without_tax>87</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/o/colgate_visible_white_tooth_paste_100_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>135</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcvwt</sku>
+    <description>Nothing turns you off more than pale yellow shade of teeth. Getting that perfect sparkling white smile is not a big deal anymore. Add Colgate Visible White Toothpaste to your oral hygiene essentials, which is equipped with advanced white accelerators that can make your teeth one shade whiter in just a week. Special ingredients like silica and polyphosphates remove and prevent stains on the teeth. Now flash your dazzling smile with even more confidence!</description>
+    <short_description>Nothing turns you off more than pale yellow shade of teeth. Getting that perfect sparkling white smile is not a big deal anymore.</short_description>
+    <meta_keyword>Nothing turns you off more than pale yellow shade of teeth. Getting that perfect sparkling white smile is not a big deal anymore. Add Colgate Visible White Toothpaste to your oral hygiene essentials, which is equipped with advanced white accelerators that can make your teeth one shade whiter in just a week. Special ingredients like silica and polyphosphates remove and prevent stains on the teeth. Now flash your dazzling smile with even more confidence!</meta_keyword>
+    <name>Colgate Visible White Tooth Paste 200 gm</name>
+    <meta_title>Colgate Visible White Toothpaste 200 gm</meta_title>
+    <meta_description>Nothing turns you off more than pale yellow shade of teeth. Getting that perfect sparkling white smile is not a big deal anymore. Add Colgate Visible White Toothpaste to your oral hygiene essentials, which is equipped with advanced white accelerators that</meta_description>
+    <regular_price_with_tax>156</regular_price_with_tax>
+    <regular_price_without_tax>156</regular_price_without_tax>
+    <final_price_with_tax>156</final_price_with_tax>
+    <final_price_without_tax>156</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/o/colgate_visible_white_tooth_paste_200_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>136</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdb</sku>
+    <description>Dabur Badam Oil is obtained from ripe kernels of Prunus Amygdalus. The 100% pure Dabur Badam Oil is extracted from best quality almonds. Dabur Badam Oil sharpens brain &amp; strengthen nerves, besides improving body strength. It is also a mild laxative, which removes constipation in a natural way. Almond oil also contains vitamin E, which helps in making your skin soft &amp; glowing. Regular application of Dabur Badam oil on the scalp makes hair strong &amp; healthy.</description>
+    <short_description>Dabur Badam Oil is obtained from ripe kernels of Prunus Amygdalus.</short_description>
+    <meta_keyword>Dabur Badam Oil is obtained from ripe kernels of Prunus Amygdalus. The 100% pure Dabur Badam Oil is extracted from best quality almonds. Dabur Badam Oil sharpens brain &amp; strengthen nerves, besides improving body strength. It is also a mild laxative, which removes constipation in a natural way. Almond oil also contains vitamin E, which helps in making your skin soft &amp; glowing. Regular application of Dabur Badam oil on the scalp makes hair strong &amp; healthy.</meta_keyword>
+    <name>Dabur Almond Hair Oil 100 ml</name>
+    <meta_title>Dabur Almond Hair Oil 100 ml</meta_title>
+    <meta_description>Dabur Badam Oil is obtained from ripe kernels of Prunus Amygdalus. The 100% pure Dabur Badam Oil is extracted from best quality almonds. Dabur Badam Oil sharpens brain &amp; strengthen nerves, besides improving body strength. It is also a mild laxative, which</meta_description>
+    <regular_price_with_tax>290</regular_price_with_tax>
+    <regular_price_without_tax>290</regular_price_without_tax>
+    <final_price_with_tax>290</final_price_with_tax>
+    <final_price_without_tax>290</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/a/dabur_almond_hair_oil_100_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>137</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdosb</sku>
+    <description>100% better protection than ordinary bar soaps*&#xD;
+Dettol Original Soap with classic Dettol fragrance provides Dettol's trusted germ protection from a wide range of unseen germs. It cleanses and protects your skin keeping you healthy everyday</description>
+    <short_description>100% better protection than ordinary bar soaps</short_description>
+    <meta_keyword>100% better protection than ordinary bar soaps*&#xD;
+Dettol Original Soap with classic Dettol fragrance provides Dettol's trusted germ protection from a wide range of unseen germs. It cleanses and protects your skin keeping you healthy everyday</meta_keyword>
+    <name>Dettol Original Value Pack Soap 3x120 gm</name>
+    <meta_title>Dettol Original Value Pack Soap 3x120 gm</meta_title>
+    <meta_description>100% better protection than ordinary bar soaps*&#xD;
+Dettol Original Soap with classic Dettol fragrance provides Dettol's trusted germ protection from a wide range of unseen germs. It cleanses and protects your skin keeping you healthy everyday</meta_description>
+    <regular_price_with_tax>123</regular_price_with_tax>
+    <regular_price_without_tax>123</regular_price_without_tax>
+    <final_price_with_tax>123</final_price_with_tax>
+    <final_price_without_tax>123</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/e/dettol_original_value_pack_soap_3x120_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>138</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopd</sku>
+    <description>Who does not want a soft, smooth and flawless skin? It's easier to get one if you add a bar of Dove soap to your daily beauty regime. It contains pure moisturizing cream and mild cleansers that will leave your skin soft, supple and smooth. Dove does not strip the moisture from your skin nor does it leave a soapy residue, unlike soaps. Hydrate your skin and give it a healthy glow.</description>
+    <short_description>Who does not want a soft, smooth and flawless skin? It's easier to get one if you add a bar of Dove soap to your daily beauty regime.</short_description>
+    <meta_keyword>Who does not want a soft, smooth and flawless skin? It's easier to get one if you add a bar of Dove soap to your daily beauty regime. It contains pure moisturizing cream and mild cleansers that will leave your skin soft, supple and smooth. Dove does not strip the moisture from your skin nor does it leave a soapy residue, unlike soaps. Hydrate your skin and give it a healthy glow.</meta_keyword>
+    <name>Dove Cream Soap Multi Pack 3x100 gm</name>
+    <meta_title>Dove Cream Soap Multi Pack 3x100 gm</meta_title>
+    <meta_description>Who does not want a soft, smooth and flawless skin? It's easier to get one if you add a bar of Dove soap to your daily beauty regime. It contains pure moisturizing cream and mild cleansers that will leave your skin soft, supple and smooth. Dove does not s</meta_description>
+    <regular_price_with_tax>182</regular_price_with_tax>
+    <regular_price_without_tax>182</regular_price_without_tax>
+    <final_price_with_tax>182</final_price_with_tax>
+    <final_price_without_tax>182</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/o/dove_cream_soap_multi_pack_3x100_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>139</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopds</sku>
+    <description>Dove Daily Shine Shampoo contains Micro Moisture Serum that builds a protective shield around your hair fiber and defends it against daily aggressions that cause dullness. It leaves your hair soft, shiny and smooth.</description>
+    <short_description>Dove Daily Shine Shampoo contains Micro Moisture Serum that builds a protective shield around your hair fiber.</short_description>
+    <meta_keyword>Dove Daily Shine Shampoo contains Micro Moisture Serum that builds a protective shield around your hair fiber and defends it against daily aggressions that cause dullness. It leaves your hair soft, shiny and smooth.</meta_keyword>
+    <name>Dove Daily Shine Shampoo 650 ml</name>
+    <meta_title>Dove Daily Shine Shampoo 650 ml</meta_title>
+    <meta_description>Dove Daily Shine Shampoo contains Micro Moisture Serum that builds a protective shield around your hair fiber and defends it against daily aggressions that cause dullness. It leaves your hair soft, shiny and smooth.</meta_description>
+    <regular_price_with_tax>430</regular_price_with_tax>
+    <regular_price_without_tax>430</regular_price_without_tax>
+    <final_price_with_tax>430</final_price_with_tax>
+    <final_price_without_tax>430</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/o/dove_daily_shine_shampoo_650_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>140</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopddc</sku>
+    <description>Dove Dandruff Care Shampoo contains clinically proven ZPTO formula that cures dandruff and Micro Moisture Serum that provides extensive moisturisation to keep dryness at bay. It gives you hair that&#x2019;s soft, smooth and free from dandruff.</description>
+    <short_description>Dove Dandruff Care Shampoo contains clinically proven ZPTO formula .</short_description>
+    <meta_keyword>Dove Dandruff Care Shampoo contains clinically proven ZPTO formula that cures dandruff and Micro Moisture Serum that provides extensive moisturisation to keep dryness at bay. It gives you hair that&#x2019;s soft, smooth and free from dandruff.</meta_keyword>
+    <name>Dove Dandruff Care Shampoo 375 ml</name>
+    <meta_title>Dove Dandruff Care Shampoo 375 ml</meta_title>
+    <meta_description>Dove Dandruff Care Shampoo contains clinically proven ZPTO formula that cures dandruff and Micro Moisture Serum that provides extensive moisturisation to keep dryness at bay. It gives you hair that&#x2019;s soft, smooth and free from dandruff.</meta_description>
+    <regular_price_with_tax>290</regular_price_with_tax>
+    <regular_price_without_tax>290</regular_price_without_tax>
+    <final_price_with_tax>290</final_price_with_tax>
+    <final_price_without_tax>290</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/o/dove_dandruff_care_shampoo_375_ml_1.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>141</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdhf</sku>
+    <description>Dove Hair Fall Rescue Shampoo helps reduce hair fall caused due to damage. It contains Nutrilock actives that locks in the nourishment, strengthen and protects hair against hair fall. It nourishes from the roots up and reduces hair fall , giving visibly fuller hair.</description>
+    <short_description>Dove Hair Fall Rescue Shampoo helps reduce hair fall caused due to damage. </short_description>
+    <meta_keyword>Dove Hair Fall Rescue Shampoo helps reduce hair fall caused due to damage. It contains Nutrilock actives that locks in the nourishment, strengthen and protects hair against hair fall. It nourishes from the roots up and reduces hair fall , giving visibly fuller hair.</meta_keyword>
+    <name>Dove Hair Fall Rescue Shampoo 650 ml</name>
+    <meta_title>Dove Hair Fall Rescue Shampoo 650 ml</meta_title>
+    <meta_description>Dove Hair Fall Rescue Shampoo helps reduce hair fall caused due to damage. It contains Nutrilock actives that locks in the nourishment, strengthen and protects hair against hair fall. It nourishes from the roots up and reduces hair fall , giving visibly f</meta_description>
+    <regular_price_with_tax>420</regular_price_with_tax>
+    <regular_price_without_tax>420</regular_price_without_tax>
+    <final_price_with_tax>420</final_price_with_tax>
+    <final_price_without_tax>420</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/o/dove_hair_fall_rescue_shampoo_650ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>142</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdir</sku>
+    <description>Dove Intense Repair Shampoo contains Keratin Actives that go deep within, to help rebuild damaged hair at the cellular level. It makes your hair beautifully smooth, strong and resilient to damage.</description>
+    <short_description>Dove Intense Repair Shampoo contains Keratin Actives that go deep within, to help rebuild damaged hair at the cellular level.</short_description>
+    <meta_keyword>Dove Intense Repair Shampoo contains Keratin Actives that go deep within, to help rebuild damaged hair at the cellular level. It makes your hair beautifully smooth, strong and resilient to damage.</meta_keyword>
+    <name>Dove Intense Repair Shampoo 650 ml</name>
+    <meta_title>Dove Intense Repair Shampoo 650 ml</meta_title>
+    <meta_description>Dove Intense Repair Shampoo contains Keratin Actives that go deep within, to help rebuild damaged hair at the cellular level. It makes your hair beautifully smooth, strong and resilient to damage.</meta_description>
+    <regular_price_with_tax>420</regular_price_with_tax>
+    <regular_price_without_tax>420</regular_price_without_tax>
+    <final_price_with_tax>420</final_price_with_tax>
+    <final_price_without_tax>420</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/o/dove_intense_repair_shampoo_650_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>143</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopdno</sku>
+    <description>Dove Nourishing Oil Care shampoo has Fiber Actives and Vita Oils which gives Vitamin enriched nourishment to make your hair resilient to damage.</description>
+    <short_description>Dove Nourishing Oil Care shampoo has Fiber Actives and Vita Oils which gives Vitamin enriched nourishment to make your hair resilient to damage.</short_description>
+    <meta_keyword>Dove Nourishing Oil Care shampoo has Fiber Actives and Vita Oils which gives Vitamin enriched nourishment to make your hair resilient to damage.</meta_keyword>
+    <name>Dove Nourishing Oil Care Shampoo 340 ml</name>
+    <meta_title>Dove Nourishing Oil Care Shampoo 340 ml</meta_title>
+    <meta_description>Dove Nourishing Oil Care shampoo has Fiber Actives and Vita Oils which gives Vitamin enriched nourishment to make your hair resilient to damage.</meta_description>
+    <regular_price_with_tax>270</regular_price_with_tax>
+    <regular_price_without_tax>270</regular_price_without_tax>
+    <final_price_with_tax>270</final_price_with_tax>
+    <final_price_without_tax>270</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/d/o/dove_nourishing_oil_care_shampoo_340_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>144</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopey</sku>
+    <description>Everyuth Granular Neem Face Wash has goodness of neem, tea tree oil, and chamomile which gives triple benefits. Fights against bacterial infections- Cleanses your skin- Gives you clear and beautiful skin free of whiteheads, blackheads, acne, pimples &amp; other skin related issues.</description>
+    <short_description>Everyuth Granular Neem Face Wash has goodness of neem, tea tree oil, and chamomile which gives triple benefits.</short_description>
+    <meta_keyword>Everyuth Granular Neem Face Wash has goodness of neem, tea tree oil, and chamomile which gives triple benefits. Fights against bacterial infections- Cleanses your skin- Gives you clear and beautiful skin free of whiteheads, blackheads, acne, pimples &amp; other skin related issues.</meta_keyword>
+    <name>Everyuth Granular Neem Face Wash 100 gm</name>
+    <meta_title>Everyuth Granular Neem Face Wash 100 gm</meta_title>
+    <meta_description>Everyuth Granular Neem Face Wash has goodness of neem, tea tree oil, and chamomile which gives triple benefits. Fights against bacterial infections- Cleanses your skin- Gives you clear and beautiful skin free of whiteheads, blackheads, acne, pimples &amp; oth</meta_description>
+    <regular_price_with_tax>80</regular_price_with_tax>
+    <regular_price_without_tax>80</regular_price_without_tax>
+    <final_price_with_tax>80</final_price_with_tax>
+    <final_price_without_tax>80</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/e/v/everyuth_granular_neem_face_wash_100_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>145</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopgm</sku>
+    <description>Keep your face looking fresh and clean, even after a long day at work, with Garnier Men's Acno Fight Face Wash. It has a specially formulated ingredient, that helps control and prevent oil, dry pimples, blackheads, reduce redness, tighten pores, and lighten scars and marks.</description>
+    <short_description>Keep your face looking fresh and clean, even after a long day at work, with Garnier Men's Acno Fight Face Wash.</short_description>
+    <meta_keyword>Keep your face looking fresh and clean, even after a long day at work, with Garnier Men's Acno Fight Face Wash. It has a specially formulated ingredient, that helps control and prevent oil, dry pimples, blackheads, reduce redness, tighten pores, and lighten scars and marks.</meta_keyword>
+    <name>Garnier Men Acno Fight Face Wash 50 gm</name>
+    <meta_title>Garnier Men Acno Fight Face Wash 50 gm</meta_title>
+    <meta_description>Keep your face looking fresh and clean, even after a long day at work, with Garnier Men's Acno Fight Face Wash. It has a specially formulated ingredient, that helps control and prevent oil, dry pimples, blackheads, reduce redness, tighten pores, and light</meta_description>
+    <regular_price_with_tax>85</regular_price_with_tax>
+    <regular_price_without_tax>85</regular_price_without_tax>
+    <final_price_with_tax>85</final_price_with_tax>
+    <final_price_without_tax>85</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/g/a/garnier_men_acno_fight_face_wash_50_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>146</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopgmo</sku>
+    <description>Garnier Men Oil Control Face Wash removes excessive oil without drying while ensuring a day long oil free feel.</description>
+    <short_description>Garnier Men Oil Control Face Wash removes excessive oil without drying while ensuring a day long oil free feel.</short_description>
+    <meta_keyword>Garnier Men Oil Control Face Wash removes excessive oil without drying while ensuring a day long oil free feel.</meta_keyword>
+    <name>Garnier Men Oil Control Face Wash 50 ml</name>
+    <meta_title>Garnier Men Oil Control Face Wash 50 ml</meta_title>
+    <meta_description>Garnier Men Oil Control Face Wash removes excessive oil without drying while ensuring a day long oil free feel.</meta_description>
+    <regular_price_with_tax>85</regular_price_with_tax>
+    <regular_price_without_tax>85</regular_price_without_tax>
+    <final_price_with_tax>85</final_price_with_tax>
+    <final_price_without_tax>85</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/g/a/garnier_men_oil_control_face_wash_50_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>147</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopgmplf</sku>
+    <description>Garnier Men Powerlight Fairness Face Wash removes impurities, pollutants and dark dead cells for an intensive fairness action.</description>
+    <short_description>Garnier Men Powerlight Fairness Face Wash removes impurities, pollutants and dark dead cells for an intensive fairness action.</short_description>
+    <meta_keyword>Garnier Men Powerlight Fairness Face Wash removes impurities, pollutants and dark dead cells for an intensive fairness action.</meta_keyword>
+    <name>Garnier Men Power Light Face Wash 20 gm</name>
+    <meta_title>Garnier Men Power Light Face Wash 20 gm</meta_title>
+    <meta_description>Garnier Men Powerlight Fairness Face Wash removes impurities, pollutants and dark dead cells for an intensive fairness action.</meta_description>
+    <regular_price_with_tax>85</regular_price_with_tax>
+    <regular_price_without_tax>85</regular_price_without_tax>
+    <final_price_with_tax>85</final_price_with_tax>
+    <final_price_without_tax>85</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/g/a/garnier_men_power_light_face_wash_20_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>148</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopgmp</sku>
+    <description>An immediate solution to your oily skin, sensitive to sun and dirt, is Garnier's Powerlight Fairness Face Wash for Men. Wash off all the impurities, pollutants and dead cells, in the blink of an eye, only to get an instant and glamorous glow.</description>
+    <short_description>An immediate solution to your oily skin, sensitive to sun and dirt, is Garnier's Powerlight Fairness Face Wash for Men.</short_description>
+    <meta_keyword>An immediate solution to your oily skin, sensitive to sun and dirt, is Garnier's Powerlight Fairness Face Wash for Men. Wash off all the impurities, pollutants and dead cells, in the blink of an eye, only to get an instant and glamorous glow.</meta_keyword>
+    <name>Garnier Men Powerlight Fairness Face Wash 100 gm</name>
+    <meta_title>Garnier Men Powerlight Fairness Face Wash 100 gm</meta_title>
+    <meta_description>An immediate solution to your oily skin, sensitive to sun and dirt, is Garnier's Powerlight Fairness Face Wash for Men. Wash off all the impurities, pollutants and dead cells, in the blink of an eye, only to get an instant and glamorous glow.</meta_description>
+    <regular_price_with_tax>155</regular_price_with_tax>
+    <regular_price_without_tax>155</regular_price_without_tax>
+    <final_price_with_tax>155</final_price_with_tax>
+    <final_price_without_tax>155</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/g/a/garnier_men_powerlight_fairness_face_wash_100_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>149</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshophsm</sku>
+    <description>Head &amp; Shoulders Menthol Shampoo has tiingly menthol for revitalizing freshness. It leaves hair up to 100% dandruff free. It is gentle enough for everyday use, even for color or chemically treated hair. Formulated with Head &amp; Shoulders&#x2019; Fresh Scent Technology featuring enhanced fragrance notes for an improved in-shower scent experience.</description>
+    <short_description>Head &amp; Shoulders Menthol Shampoo has tiingly menthol for revitalizing freshness. It leaves hair up to 100% dandruff free. </short_description>
+    <meta_keyword>Head &amp; Shoulders Menthol Shampoo has tiingly menthol for revitalizing freshness. It leaves hair up to 100% dandruff free. It is gentle enough for everyday use, even for color or chemically treated hair. Formulated with Head &amp; Shoulders&#x2019; Fresh Scent Technology featuring enhanced fragrance notes for an improved in-shower scent experience.</meta_keyword>
+    <name>Head &amp; Shoulders Cool Menthol Shampoo 675 ml</name>
+    <meta_title>Head &amp; Shoulders Cool Menthol Shampoo 675 ml</meta_title>
+    <meta_description>Head &amp; Shoulders Menthol Shampoo has tiingly menthol for revitalizing freshness. It leaves hair up to 100% dandruff free. It is gentle enough for everyday use, even for color or chemically treated hair. Formulated with Head &amp; Shoulders&#x2019; Fresh Scent Techno</meta_description>
+    <regular_price_with_tax>475</regular_price_with_tax>
+    <regular_price_without_tax>475</regular_price_without_tax>
+    <final_price_with_tax>475</final_price_with_tax>
+    <final_price_without_tax>475</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/e/head_shoulders_cool_menthol_shampoo_675_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>150</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshophsh</sku>
+    <description>Looking for an anti-dandruff shampoo which can cure your hair fall problem as well? Grab this magical shampoo by Head &amp; Shoulders which helps you scrub away those pesky white flakes while improving the condition of your scalp. It is known to rescue hair from the damage caused by our modern lifestyles and restores the strength back into it. Formulated with nourishing oils, it reduces hair fall caused due to breakage. Gentle enough to be used every day, buy this shampoo and say hello to gorgeous hair.</description>
+    <short_description>Looking for an anti-dandruff shampoo which can cure your hair fall problem as well? Grab this magical shampoo by Head &amp; Shoulders.</short_description>
+    <meta_keyword>Looking for an anti-dandruff shampoo which can cure your hair fall problem as well? Grab this magical shampoo by Head &amp; Shoulders which helps you scrub away those pesky white flakes while improving the condition of your scalp. It is known to rescue hair from the damage caused by our modern lifestyles and restores the strength back into it. Formulated with nourishing oils, it reduces hair fall caused due to breakage. Gentle enough to be used every day, buy this shampoo and say hello to gorgeous hair.</meta_keyword>
+    <name>Head &amp; Shoulders Anti Hair Fall Shampoo 675 ml</name>
+    <meta_title>Head &amp; Shoulders Anti Hair Fall Shampoo 675 ml</meta_title>
+    <meta_description>Looking for an anti-dandruff shampoo which can cure your hair fall problem as well? Grab this magical shampoo by Head &amp; Shoulders which helps you scrub away those pesky white flakes while improving the condition of your scalp. It is known to rescue hair f</meta_description>
+    <regular_price_with_tax>475</regular_price_with_tax>
+    <regular_price_without_tax>475</regular_price_without_tax>
+    <final_price_with_tax>475</final_price_with_tax>
+    <final_price_without_tax>475</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/e/head_shoulders_anti-hairfall_anti-dandruff_shampoo_675ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>151</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshophsss</sku>
+    <description>Head &amp; Shoulders presents Smooth &amp; Silky shampoo, formulated to moisturize and soften your hair. It restores the lost shine and lustre in your hair and helps you achieve a frizz-free mane. With enhanced fragrance notes added into it, this shampoo creates a never before in-shower scent experience for you. Smoothening out each strand, this amazing shampoo needs to be added to your cart, right away.</description>
+    <short_description>Head &amp; Shoulders presents Smooth &amp; Silky shampoo, formulated to moisturize and soften your hair.</short_description>
+    <meta_keyword>Head &amp; Shoulders presents Smooth &amp; Silky shampoo, formulated to moisturize and soften your hair. It restores the lost shine and lustre in your hair and helps you achieve a frizz-free mane. With enhanced fragrance notes added into it, this shampoo creates a never before in-shower scent experience for you. Smoothening out each strand, this amazing shampoo needs to be added to your cart, right away.</meta_keyword>
+    <name>Head &amp; Shoulders Smooth &amp; Silky Shampoo 675 ml</name>
+    <meta_title>Head &amp; Shoulders Smooth &amp; Silky Shampoo 675 ml</meta_title>
+    <meta_description>Head &amp; Shoulders presents Smooth &amp; Silky shampoo, formulated to moisturize and soften your hair. It restores the lost shine and lustre in your hair and helps you achieve a frizz-free mane. With enhanced fragrance notes added into it, this shampoo creates </meta_description>
+    <regular_price_with_tax>475</regular_price_with_tax>
+    <regular_price_without_tax>475</regular_price_without_tax>
+    <final_price_with_tax>475</final_price_with_tax>
+    <final_price_without_tax>475</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/e/head-shoulder-smooth-silky-shampoo-675ml-.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>152</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshophwp</sku>
+    <description>Huggies Wonder-Pants is the softest diaper pant. It has Soft-Hug Design which hugs baby's bottom and provides all-around softness. Cottony Soft Material which is gentle on baby's bottom. Waistband with soft elastic which is extremely soft on baby's waist. Blue Speed Dry Layer which pulls in wetness quickly and keeps baby's skin dry</description>
+    <short_description>Huggies Wonder-Pants is the softest diaper pant. It has Soft-Hug Design which hugs baby's bottom and provides all-around softness.</short_description>
+    <meta_keyword>Huggies Wonder-Pants is the softest diaper pant. It has Soft-Hug Design which hugs baby's bottom and provides all-around softness. Cottony Soft Material which is gentle on baby's bottom. Waistband with soft elastic which is extremely soft on baby's waist. Blue Speed Dry Layer which pulls in wetness quickly and keeps baby's skin dry</meta_keyword>
+    <name>Huggies Imported Large Dry Pants 20 Nos</name>
+    <meta_title>Huggies Imported Large Dry Pants 20 Nos</meta_title>
+    <meta_description>Huggies Wonder-Pants is the softest diaper pant. It has Soft-Hug Design which hugs baby's bottom and provides all-around softness. Cottony Soft Material which is gentle on baby's bottom. Waistband with soft elastic which is extremely soft on baby's waist.</meta_description>
+    <regular_price_with_tax>265</regular_price_with_tax>
+    <regular_price_without_tax>265</regular_price_without_tax>
+    <final_price_with_tax>265</final_price_with_tax>
+    <final_price_without_tax>265</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/u/huggies_imported_large_dry_pants_20_nos.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>153</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshophsw</sku>
+    <description>Huggies Wonder-Pants is the softest diaper pant. It has Soft-Hug Design which hugs baby's bottom and provides all-around softness:- Cottony Soft Material which is gentle on baby's bottom- Waistband with soft elastic which is extremely soft on baby's waist- Blue Speed Dry Layer which pulls in wetness quickly and keeps baby's skin dry</description>
+    <short_description>Huggies Wonder-Pants is the softest diaper pant. It has Soft-Hug Design which hugs baby's bottom and provides all-around softness.</short_description>
+    <meta_keyword>Huggies Wonder-Pants is the softest diaper pant. It has Soft-Hug Design which hugs baby's bottom and provides all-around softness:- Cottony Soft Material which is gentle on baby's bottom- Waistband with soft elastic which is extremely soft on baby's waist- Blue Speed Dry Layer which pulls in wetness quickly and keeps baby's skin dry</meta_keyword>
+    <name>Huggies Small Wonder Pants 18 Nos</name>
+    <meta_title>Huggies Small Wonder Pants 18 Nos</meta_title>
+    <meta_description>Huggies Wonder-Pants is the softest diaper pant. It has Soft-Hug Design which hugs baby's bottom and provides all-around softness:- Cottony Soft Material which is gentle on baby's bottom- Waistband with soft elastic which is extremely soft on baby's waist</meta_description>
+    <regular_price_with_tax>199</regular_price_with_tax>
+    <regular_price_without_tax>199</regular_price_without_tax>
+    <final_price_with_tax>199</final_price_with_tax>
+    <final_price_without_tax>199</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/u/huggies_small_wonder_pants_18_nos.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>154</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshophw</sku>
+    <description>Your little one definitely needs gentle care and comfort. And, in order to achieve this, get Huggies Wonder Pants, which have a leak lock system to avoid leakage. The diaper features an incredibly soft pad with breathable and comfortable elastic for added protection. These disposable baby diapers also contain Ultra Skin Guard Liner, which contains mild ingredients proven to keep your baby's skin soft and healthy looking.</description>
+    <short_description>Your little one definitely needs gentle care and comfort. And, in order to achieve this, get Huggies Wonder Pants.</short_description>
+    <meta_keyword>Your little one definitely needs gentle care and comfort. And, in order to achieve this, get Huggies Wonder Pants, which have a leak lock system to avoid leakage. The diaper features an incredibly soft pad with breathable and comfortable elastic for added protection. These disposable baby diapers also contain Ultra Skin Guard Liner, which contains mild ingredients proven to keep your baby's skin soft and healthy looking.</meta_keyword>
+    <name>Huggies Wonder Pants XL 16 Nos</name>
+    <meta_title>Huggies Wonder Pants XL 16 Nos</meta_title>
+    <meta_description>Your little one definitely needs gentle care and comfort. And, in order to achieve this, get Huggies Wonder Pants, which have a leak lock system to avoid leakage. The diaper features an incredibly soft pad with breathable and comfortable elastic for added</meta_description>
+    <regular_price_with_tax>285</regular_price_with_tax>
+    <regular_price_without_tax>285</regular_price_without_tax>
+    <final_price_with_tax>285</final_price_with_tax>
+    <final_price_without_tax>285</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/h/u/huggies_wonder_pants_xl_16_nos.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>155</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopjj</sku>
+    <description>It is important to keep your ears and eyes clean. Dust and other impurities can cause severe irritation, if not removed immediately. Trust Johnson's Cotton Buds for gentle removal of all dirt and unwanted particles. These buds are not only best for your baby but also for you. Apart from cleaning, these quickly dry in between the fingers, toes and around the eyes and nose or outer ear avoiding any infections due to the moisture. Use these to apply creams to blemishes. Pick a pack today!</description>
+    <short_description>It is important to keep your ears and eyes clean. Dust and other impurities can cause severe irritation, if not removed immediately.</short_description>
+    <meta_keyword>It is important to keep your ears and eyes clean. Dust and other impurities can cause severe irritation, if not removed immediately. Trust Johnson's Cotton Buds for gentle removal of all dirt and unwanted particles. These buds are not only best for your baby but also for you. Apart from cleaning, these quickly dry in between the fingers, toes and around the eyes and nose or outer ear avoiding any infections due to the moisture. Use these to apply creams to blemishes. Pick a pack today!</meta_keyword>
+    <name>Johnson &amp; Johnson Cotton Ear Buds 150 Nos</name>
+    <meta_title>Johnson &amp; Johnson Cotton Ear Buds 150 Nos</meta_title>
+    <meta_description>It is important to keep your ears and eyes clean. Dust and other impurities can cause severe irritation, if not removed immediately. Trust Johnson's Cotton Buds for gentle removal of all dirt and unwanted particles. These buds are not only best for your b</meta_description>
+    <regular_price_with_tax>70</regular_price_with_tax>
+    <regular_price_without_tax>70</regular_price_without_tax>
+    <final_price_with_tax>70</final_price_with_tax>
+    <final_price_without_tax>70</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/j/o/johnson_johnson_cotton_ear_buds_150_nos.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>156</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopjbw</sku>
+    <description>Johnson &amp; Johnson Baby Wipe contains Johnson&#x2019;s baby lotion &amp; uses SOFTWAVE technology fabric. It is Hypoallergenic with clinically proven mildness. Cleans and moisturizes baby skin. Protects baby skin from friction. Gentle enough to be used on newborn babies</description>
+    <short_description>Johnson &amp; Johnson Baby Wipe contains Johnson&#x2019;s baby lotion &amp; uses SOFTWAVE technology fabric.</short_description>
+    <meta_keyword>Johnson &amp; Johnson Baby Wipe contains Johnson&#x2019;s baby lotion &amp; uses SOFTWAVE technology fabric. It is Hypoallergenic with clinically proven mildness. Cleans and moisturizes baby skin. Protects baby skin from friction. Gentle enough to be used on newborn babies</meta_keyword>
+    <name>Johnson's Baby Wipes 2x80 Sheets</name>
+    <meta_title>Johnson's Baby Wipes 2x80 Sheets</meta_title>
+    <meta_description>Johnson &amp; Johnson Baby Wipe contains Johnson&#x2019;s baby lotion &amp; uses SOFTWAVE technology fabric. It is Hypoallergenic with clinically proven mildness. Cleans and moisturizes baby skin. Protects baby skin from friction. Gentle enough to be used on newborn bab</meta_description>
+    <regular_price_with_tax>388</regular_price_with_tax>
+    <regular_price_without_tax>388</regular_price_without_tax>
+    <final_price_with_tax>388</final_price_with_tax>
+    <final_price_without_tax>388</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/j/o/johnson_s_baby_wipes_2x80_sheets.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>157</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoplp</sku>
+    <description>The 6 Oil Nourish Shampoo has been created to provide complete nourishment to your hair from root to tip with 6 Micro Oils&#x2122;making it soft, shiny, thick, strong, smooth and manageable.&#xD;
+&#xD;
+Science meets tradition with the infusion of 6 unique oils. The L'Or&#xE9;al Paris 6 Oil Nourish Shampoo has been specially created by the L'Or&#xE9;al Research &amp; Innovation Centre in India. It penetrates deep into the scalp giving it utmost nourishment and care that is suitable for all hair types</description>
+    <short_description>The 6 Oil Nourish Shampoo has been created to provide complete nourishment to your hair from root to tip with 6 Micro Oils.</short_description>
+    <meta_keyword>The 6 Oil Nourish Shampoo has been created to provide complete nourishment to your hair from root to tip with 6 Micro Oils&#x2122;making it soft, shiny, thick, strong, smooth and manageable.&#xD;
+&#xD;
+Science meets tradition with the infusion of 6 unique oils. The L'Or&#xE9;al Paris 6 Oil Nourish Shampoo has been specially created by the L'Or&#xE9;al Research &amp; Innovation Centre in India. It penetrates deep into the scalp giving it utmost nourishment and care that is suitable for all hair types</meta_keyword>
+    <name>L'oreal Paris 6 Oil Nourish Shampoo 640 ml</name>
+    <meta_title>L'oreal Paris 6 Oil Nourish Shampoo 640 ml</meta_title>
+    <meta_description>The 6 Oil Nourish Shampoo has been created to provide complete nourishment to your hair from root to tip with 6 Micro Oils&#x2122;making it soft, shiny, thick, strong, smooth and manageable.&#xD;
+&#xD;
+Science meets tradition with the infusion of 6 unique oils. The L'Or</meta_description>
+    <regular_price_with_tax>420</regular_price_with_tax>
+    <regular_price_without_tax>420</regular_price_without_tax>
+    <final_price_with_tax>420</final_price_with_tax>
+    <final_price_without_tax>420</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/l/_/l_oreal_paris_6_oil_nourish_shampoo_640_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>158</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoplpc</sku>
+    <description>Colour Protect Protecting Shampoo nourishes the hair and transforms its surface. &#x2022; Hair is protected &#x2022; Colour radiance is visibly prolonged.&#xD;
+&#xD;
+The Colour Protect formula with UV filter- Light Reflecting System combines an active nourishing ingredient and filters to work on two levels: &#x2022; Nourishes the hair and transforms its surface. Hair feels silky to touch. &#x2022; Helps protect the hair fibre from external aggressions and accentuates your colour&#x2019;s radiance.&#xD;
+INNOVATIONS &amp; INGREDIENTS&#xD;
+L'oreal Paris Colour Protect Protecting Shampoo nourishes the hair and transforms its surface.- Hair is protected- Colour radiance is visibly prolonged</description>
+    <short_description>Colour Protect Protecting Shampoo nourishes the hair and transforms its surface.</short_description>
+    <meta_keyword>Colour Protect Protecting Shampoo nourishes the hair and transforms its surface. &#x2022; Hair is protected &#x2022; Colour radiance is visibly prolonged.&#xD;
+&#xD;
+The Colour Protect formula with UV filter- Light Reflecting System combines an active nourishing ingredient and filters to work on two levels: &#x2022; Nourishes the hair and transforms its surface. Hair feels silky to touch. &#x2022; Helps protect the hair fibre from external aggressions and accentuates your colour&#x2019;s radiance.&#xD;
+INNOVATIONS &amp; INGREDIENTS&#xD;
+L'oreal Paris Colour Protect Protecting Shampoo nourishes the hair and transforms its surface.- Hair is protected- Colour radiance is visibly prolonged</meta_keyword>
+    <name>L'oreal Paris Colour Protect Shampoo 175 ml</name>
+    <meta_title>L'oreal Paris Colour Protect Shampoo 175 ml</meta_title>
+    <meta_description>Colour Protect Protecting Shampoo nourishes the hair and transforms its surface. &#x2022; Hair is protected &#x2022; Colour radiance is visibly prolonged.&#xD;
+&#xD;
+The Colour Protect formula with UV filter- Light Reflecting System combines an active nourishing ingredient</meta_description>
+    <regular_price_with_tax>190</regular_price_with_tax>
+    <regular_price_without_tax>190</regular_price_without_tax>
+    <final_price_with_tax>190</final_price_with_tax>
+    <final_price_without_tax>190</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/l/_/l_oreal_paris_colour_protect_shampoo_175_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>159</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshoplpn</sku>
+    <description>Dull hair? Bring back the power shine to your hair with the Nutrigloss range which would: 1. Protect and nourish hair fibre&#xD;
+2. Illuminate hair strand&#xD;
+3. Mirror shine&#xD;
+4. Cashmere touch.&#xD;
+&#xD;
+To revive your hair brilliance , L&#x2019;Oreal laborites have developed nutri- gloss with pearl protein which leads to : &#x2022; Shine concentrate for your hair&#xD;
+&#x2022; Provides hair fibre with balance nourishment without weighting hair down</description>
+    <short_description>L&#x2019;Oreal laborites have developed nutri- gloss with pearl protein.</short_description>
+    <meta_keyword>Dull hair? Bring back the power shine to your hair with the Nutrigloss range which would: 1. Protect and nourish hair fibre&#xD;
+2. Illuminate hair strand&#xD;
+3. Mirror shine&#xD;
+4. Cashmere touch.&#xD;
+&#xD;
+To revive your hair brilliance , L&#x2019;Oreal laborites have developed nutri- gloss with pearl protein which leads to : &#x2022; Shine concentrate for your hair&#xD;
+&#x2022; Provides hair fibre with balance nourishment without weighting hair down</meta_keyword>
+    <name>L'oreal Paris Nutrition Gloss Shampoo 175 ml</name>
+    <meta_title>L'oreal Paris Nutrition Gloss Shampoo 175 ml</meta_title>
+    <meta_description>Dull hair? Bring back the power shine to your hair with the Nutrigloss range which would: 1. Protect and nourish hair fibre&#xD;
+2. Illuminate hair strand&#xD;
+3. Mirror shine&#xD;
+4. Cashmere touch.&#xD;
+&#xD;
+To revive your hair brilliance , L&#x2019;Oreal laborites have develope</meta_description>
+    <regular_price_with_tax>190</regular_price_with_tax>
+    <regular_price_without_tax>190</regular_price_without_tax>
+    <final_price_with_tax>190</final_price_with_tax>
+    <final_price_without_tax>190</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/l/_/l_oreal_paris_nutrition_gloss_shampoo_175_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>160</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopnfm</sku>
+    <description>NIVEA MEN Oil Control Face Wash, for oily skin, deeply cleanses skin and controls oiliness up to 12h. The effective formula repairs damaged, dull skin 10 times* better with Whitanat Vita Complex which contains 10 ingredients:&#xD;
+Licorice,Vitamin C,Whitanat,Vitamin E,Pro Vitamin B5,Ginko Leaves Extract,Ginseng Root Extract,Glycerin,Magnolia Bark Extract,Glyceryl Glucoside,Skin compatibility dermatologically approved.&#xD;
+*in vitro test for Whitanat vs. Vitamin C</description>
+    <short_description>NIVEA MEN Oil Control Face Wash, for oily skin, deeply cleanses skin and controls oiliness up to 12h.</short_description>
+    <meta_keyword>NIVEA MEN Oil Control Face Wash, for oily skin, deeply cleanses skin and controls oiliness up to 12h. The effective formula repairs damaged, dull skin 10 times* better with Whitanat Vita Complex which contains 10 ingredients:&#xD;
+Licorice,Vitamin C,Whitanat,Vitamin E,Pro Vitamin B5,Ginko Leaves Extract,Ginseng Root Extract,Glycerin,Magnolia Bark Extract,Glyceryl Glucoside,Skin compatibility dermatologically approved.&#xD;
+*in vitro test for Whitanat vs. Vitamin C</meta_keyword>
+    <name>Nivea Men Dark Spot Reduction Face Wash 100 gm</name>
+    <meta_title>Nivea Men Dark Spot Reduction Face Wash 100 gm</meta_title>
+    <meta_description>NIVEA MEN Oil Control Face Wash, for oily skin, deeply cleanses skin and controls oiliness up to 12h. The effective formula repairs damaged, dull skin 10 times* better with Whitanat Vita Complex which contains 10 ingredients:&#xD;
+Licorice,Vitamin C,Whitanat,</meta_description>
+    <regular_price_with_tax>190</regular_price_with_tax>
+    <regular_price_without_tax>190</regular_price_without_tax>
+    <final_price_with_tax>190</final_price_with_tax>
+    <final_price_without_tax>190</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nivea_men_dark_spot_reduction_face_wash_100_gm.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>161</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopmpp</sku>
+    <description>Whether your baby is crawling or standing or trying to walk, these Easy to Wear Diapers can be put on in any position. They do not cause any interruptions in your baby's natural movements. Also, absorbancy of 6 glasses provides undisturbed sleep to your child. It has all-round elastic wide band-with Softer Elastic for a more comfortable fit, it is gentle on the baby's skin and its breathable material keeps the baby fresh and comfortable. Maxi-absorbent core-which quickly absorbs upto 6 glasses and gives your baby long lasting dryness. Soft leg gathers- with Fit Covers that fit comfortably and prevent leakage.</description>
+    <short_description>Whether your baby is crawling or standing or trying to walk, these Easy to Wear Diapers can be put on in any position.</short_description>
+    <meta_keyword>Whether your baby is crawling or standing or trying to walk, these Easy to Wear Diapers can be put on in any position. They do not cause any interruptions in your baby's natural movements. Also, absorbancy of 6 glasses provides undisturbed sleep to your child. It has all-round elastic wide band-with Softer Elastic for a more comfortable fit, it is gentle on the baby's skin and its breathable material keeps the baby fresh and comfortable. Maxi-absorbent core-which quickly absorbs upto 6 glasses and gives your baby long lasting dryness. Soft leg gathers- with Fit Covers that fit comfortably and prevent leakage.</meta_keyword>
+    <name>Mamy Poko Large Pants 48 Nos</name>
+    <meta_title>Mamy Poko Large Pants 48 Nos</meta_title>
+    <meta_description>Whether your baby is crawling or standing or trying to walk, these Easy to Wear Diapers can be put on in any position. They do not cause any interruptions in your baby's natural movements. Also, absorbancy of 6 glasses provides undisturbed sleep </meta_description>
+    <regular_price_with_tax>699</regular_price_with_tax>
+    <regular_price_without_tax>699</regular_price_without_tax>
+    <final_price_with_tax>699</final_price_with_tax>
+    <final_price_without_tax>699</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mamy_poko_large_pants_48_nos.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>162</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopsi</sku>
+    <description>L'oreal Paris Hair Expert Smooth Intense Smoothing Shampoo nourishes and smoothes your hair from root to tip making it look more smooth &amp; manageable. The texture and the shine of your hair is renewed.</description>
+    <short_description>L'oreal Paris Hair Expert Smooth Intense Smoothing Shampoo nourishes and smoothes your hair from root to tip.</short_description>
+    <meta_keyword>L'oreal Paris Hair Expert Smooth Intense Smoothing Shampoo nourishes and smoothes your hair from root to tip making it look more smooth &amp; manageable. The texture and the shine of your hair is renewed.</meta_keyword>
+    <name>L'oreal Paris Smooth intense Shampoo 175 ml</name>
+    <meta_title>L'oreal Paris Smooth intense Shampoo 175 ml</meta_title>
+    <meta_description>L'oreal Paris Hair Expert Smooth Intense Smoothing Shampoo nourishes and smoothes your hair from root to tip making it look more smooth &amp; manageable. The texture and the shine of your hair is renewed.</meta_description>
+    <regular_price_with_tax>155</regular_price_with_tax>
+    <regular_price_without_tax>155</regular_price_without_tax>
+    <final_price_with_tax>155</final_price_with_tax>
+    <final_price_without_tax>155</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/l/_/l_oreal_paris_smooth_intense_shampoo_175_ml.jpg</image_url>
+  </data_item>
+  <data_item>
+    <entity_id>163</entity_id>
+    <type_id>simple</type_id>
+    <sku>rshopcls</sku>
+    <description>Clinic Plus has Milk Protein Formula which reduces hairfall by 98%. It strengthens weak hair, prevents hair breakage &amp; softens rough dry hair, shine for thick and healthy hair. So go ahead with the freedom to experiment with your hair, without worrying about hairfall.</description>
+    <short_description>Clinic Plus has Milk Protein Formula which reduces hairfall by 98%. </short_description>
+    <meta_keyword>Clinic Plus has Milk Protein Formula which reduces hairfall by 98%. It strengthens weak hair, prevents hair breakage &amp; softens rough dry hair, shine for thick and healthy hair. So go ahead with the freedom to experiment with your hair, without worrying about hairfall.</meta_keyword>
+    <name>Clinic Plus Strong &amp; Long Shampoo 175 ml</name>
+    <meta_title>Clinic Plus Strong &amp; Long Shampoo 175 ml</meta_title>
+    <meta_description>Clinic Plus has Milk Protein Formula which reduces hairfall by 98%. It strengthens weak hair, prevents hair breakage &amp; softens rough dry hair, shine for thick and healthy hair. So go ahead with the freedom to experiment with your hair, without worrying ab</meta_description>
+    <regular_price_with_tax>122</regular_price_with_tax>
+    <regular_price_without_tax>122</regular_price_without_tax>
+    <final_price_with_tax>122</final_price_with_tax>
+    <final_price_without_tax>122</final_price_without_tax>
+    <is_saleable>1</is_saleable>
+    <image_url>http://rshop.co.in/media/catalog/product/cache/0/image/9df78eab33525d08d6e5fb8d27136e95/c/l/clinic_plus_strong_long_shampoo_175_ml.jpg</image_url>
+  </data_item>
+</magento_api>
